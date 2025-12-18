@@ -31,23 +31,96 @@ public class 컨베이어벨트위의로봇_박재환 {
      */
     static StringTokenizer st;
     static int n, k;
-    static int[] arr;
+    static int[] belt;
+    static boolean[] robots;
     static int expired;
     static void init() throws IOException {
         expired = 0;
         st = new StringTokenizer(br.readLine().trim());
         n = Integer.parseInt(st.nextToken());
-        arr = new int[2*n];
+        belt = new int[2*n];
+        robots = new boolean[2*n];
         k = Integer.parseInt(st.nextToken());
 
         st = new StringTokenizer(br.readLine().trim());
-        for(int i=0; i<arr.length; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
-            if(arr[i] == 0) expired++;
+        for(int i=0; i<belt.length; i++) {
+            belt[i] = Integer.parseInt(st.nextToken());
+            if(belt[i] == 0) expired++;
         }
 
-
+        System.out.println(solution());
     }
+
+    static int solution() {
+        int depth = 0;
+
+        while(expired < k) {
+            depth++;
+            rotateBelt();
+//            printStatus();
+            moveRobots();
+//            printStatus();
+            putRobot();
+//            printStatus();
+        }
+
+        return depth;
+    }
+
+    static void rotateBelt() {
+        // 1. 벨트의 내구도 회전
+        int tmp = belt[2*n-1];  // 벨트의 가장 마지막 위치 값
+        for(int i=2*n-1; i > 0; i--) {
+            belt[i] = belt[i-1];
+        }
+        belt[0] = tmp;
+        // 2. 로봇의 위치 회전
+        boolean tmpR = robots[2*n-1];
+        for(int i=2*n-1; i > 0; i--) {
+            robots[i] = robots[i-1];
+        }
+        robots[0] = tmpR;
+
+        // 3. 도착한 로봇 제거
+        removeRobot();
+    }
+
+    static void moveRobots() {
+        // 가장 먼저 벨트에 올라간 로봇부터 움직인다.
+        // 이거 순서가 중요한가? -> 뒤에서부터 적용하면 괜찮을 듯
+        for(int i=n-2; i > -1; i--) {
+            if(!robots[i]) continue;
+
+            // 로봇이 있다면 이동 가능한지 확인
+
+            // 1. 이동하려는 위치에 로봇이 있는지 확인
+            if(robots[i+1] || belt[i+1] < 1) continue;
+            // 이동 가능
+            robots[i] = false;
+            robots[i+1] = true;
+            // 내구도 감소
+            belt[i+1]--;
+            if(belt[i+1] == 0) expired++;
+        }
+
+        removeRobot();
+    }
+
+    static void putRobot() {
+        if(robots[0] || belt[0] < 1) return;
+        robots[0] = true;
+        belt[0]--;
+        if(belt[0] == 0) expired++;
+    }
+
+    static void removeRobot() {
+        robots[n-1] = false;
+    }
+
+//    static void printStatus() {
+//        System.out.println(Arrays.toString(belt));
+//        System.out.println(Arrays.toString(robots));
+//    }
 }
 
 
