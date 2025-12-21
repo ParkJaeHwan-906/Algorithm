@@ -73,6 +73,7 @@ public class 연구소3_박재환 {
         }
 
         if(idx >= viruses.size()) return;   // 더 이상 조합을 만들 수 없음
+        if(selectedIdx + (viruses.size()-idx) < m) return;  // 가지치기 => 조합을 완성할 수 없음
 
         virusCandidate[selectedIdx] = idx;
         getVirusCombination(idx+1, selectedIdx+1, virusCandidate);
@@ -82,64 +83,49 @@ public class 연구소3_박재환 {
     static int[] dx = {0,1,0,-1};
     static int[] dy = {1,0,-1,0};
     static void getMinTime(int[] virusCandidate){
-        Queue<int[]> q = new LinkedList<>();
-        Queue<int[]> temp = new LinkedList<>();
-        boolean[][] visited = new boolean[n][n];
+        Queue<int[]> q = new ArrayDeque<>();
+
+        int[][] timeBoard = new int[n][n];      // 도착 시간을 기록
+        for(int[] arr : timeBoard) Arrays.fill(arr, -1);        // 배열 초기화
         for(int idx : virusCandidate) {
             int[] point = viruses.get(idx);
-            visited[point[0]][point[1]] = true;
+            timeBoard[point[0]][point[1]] = 0;      // 활성화된 바이러스 표시 ( 0초 부터 시작 )
             q.offer(point);
         }
-        int[][] copyArr = copyArr();
-        int time = 0;
+
+        int maxTime = Integer.MIN_VALUE;
         int spreadAreaCnt = 0;
-        // 초 단위로 돌려야함
-        // 큐를 모두 비우는 시점이 1초가 됨
+
         while(!q.isEmpty()) {
-            // 가지치기
-            if(time >= minTime) return;
+            int[] cur = q.poll();
+            int curX = cur[0];
+            int curY = cur[1];
+            int curTime = timeBoard[curX][curY];
 
-            while(!q.isEmpty()) {
-                int[] cur = q.poll();
-                int curX = cur[0];
-                int curY = cur[1];
+            for(int dir=0; dir<4; dir++) {
+                int nx = curX + dx[dir];
+                int ny = curY + dy[dir];
 
-                for(int dir=0; dir<4; dir++) {
-                    int nx = curX + dx[dir];
-                    int ny = curY + dy[dir];
+                if(nx < 0 || ny < 0 || nx >= n || ny >= n) continue;
+                if(timeBoard[nx][ny] != -1 || board[nx][ny] == 1) continue;
 
-                    if(nx < 0 || ny < 0 || nx >= n || ny >= n) continue;
-                    if(copyArr[nx][ny] == 1 || visited[nx][ny]) continue;
+                // 현재 이동하려는 칸이 빈칸인지, 다른 바이러스가 있는 칸인지 확인
+                timeBoard[nx][ny] = curTime+1;
 
-                    if(copyArr[nx][ny] == 0) {  // 빈 칸으로 정상적으로 퍼지는 경우
-                        spreadAreaCnt++;
+                if(board[nx][ny] == 0) {    // 빈 칸이라면
+                    spreadAreaCnt++;
+                    maxTime = Math.max(maxTime, timeBoard[nx][ny]);
 
-                        if(spreadAreaCnt == emptySpace) {
-                            minTime = Math.min(minTime, time + 1);
-                            return;
-                        }
+                    if(maxTime >= minTime) return;      // 이미 이전의 최적해를 넘어서는 경우
+
+                    if(spreadAreaCnt == emptySpace) {
+                        minTime = Math.min(minTime, maxTime);
+                        return;
                     }
-
-                    copyArr[nx][ny] = 2;
-                    visited[nx][ny] = true;
-                    temp.offer(new int[] {nx, ny});
                 }
-            }
 
-            if(temp.isEmpty()) break;
-
-            while(!temp.isEmpty()) q.offer(temp.poll());
-            time++;
-        }
-    }
-
-    static int[][] copyArr() {
-        int[][] copyArr = new int[n][n];
-        for(int x=0; x<n; x++) {
-            for(int y=0; y<n; y++) {
-                copyArr[x][y] = board[x][y];
+                q.offer(new int[] {nx, ny});
             }
         }
-        return copyArr;
     }
 }
