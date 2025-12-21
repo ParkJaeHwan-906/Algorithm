@@ -7,6 +7,7 @@
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
 | 1 | 컨베이어 벨트 위의 로봇 | [BOJ 20055](https://www.acmicpc.net/problem/20055) |
+| 2 | 연구소 3 | [BOJ 17142](https://www.acmicpc.net/problem/17142) |
 
 ---
 
