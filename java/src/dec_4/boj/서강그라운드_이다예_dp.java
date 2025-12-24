@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class 서강그라운드_dp {
+class 서강그라운드_dp {
 
     // N = 지역의 개수
     static int N ;
