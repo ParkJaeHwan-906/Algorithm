@@ -13,6 +13,20 @@
 
 ---
 
+## 📅 1월 문제 목록
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 점수따먹기 | [BOJ 1749](https://www.acmicpc.net/problem/1749) |
+| 2 | 도시 분할 계획 | [BOJ 1647](https://www.acmicpc.net/problem/1647) |
+| 3 | 줄세우기 | [BOJ 2631](https://www.acmicpc.net/problem/2631) |
+| 4 | 공유기 설치 | [BOJ 2110](https://www.acmicpc.net/problem/2110) |
+| 5 | 택배 하차 | [CodeTree 택배하차](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/delivery-service/description) |
+
+---
+
 <details>
 <summary>🔽 문제 출처 사이트 </summary>
   
