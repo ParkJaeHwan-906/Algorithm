@@ -2,15 +2,15 @@
 
 ## 📅 3월 문제 목록
 
-### ✅ 1주차
+### ✅ 2주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 주식 | [BOJ 12014](https://www.acmicpc.net/problem/12014) |
-| 2 | 구슬 탈출 3 | [BOJ 15644](https://www.acmicpc.net/problem/15644) |
-| 3 | 자동차 공간 | [BOJ 2820](https://www.acmicpc.net/problem/2820) |
-| 4 | 성대나라의 물탱크 | [BOJ 18227](https://www.acmicpc.net/problem/18227) |
-| 5 | 로봇 청소기 | [BOJ 4991](https://www.acmicpc.net/problem/4991) |
+| 1 | 상어 중학교 | [BOJ 21609](https://www.acmicpc.net/problem/21609) |
+| 2 | Puyo Puyo | [BOJ 11559](https://www.acmicpc.net/problem/11559) |
+| 3 | 색종이 붙이기 | [BOJ 17136](https://www.acmicpc.net/problem/17136) |
+| 4 | 최솟값 | [BOJ 10868](https://www.acmicpc.net/problem/10868) |
+| 5 | 전화 돌리기 | [BOJ 24526](https://www.acmicpc.net/problem/24526) |
 
 ---
 
@@ -169,6 +169,18 @@
 </details>
 <details>
 <summary>🔽 2026.03월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 주식 | [BOJ 12014](https://www.acmicpc.net/problem/12014) |
+| 2 | 구슬 탈출 3 | [BOJ 15644](https://www.acmicpc.net/problem/15644) |
+| 3 | 자동차 공간 | [BOJ 2820](https://www.acmicpc.net/problem/2820) |
+| 4 | 성대나라의 물탱크 | [BOJ 18227](https://www.acmicpc.net/problem/18227) |
+| 5 | 로봇 청소기 | [BOJ 4991](https://www.acmicpc.net/problem/4991) |
+
+---
 
 </details>
 
