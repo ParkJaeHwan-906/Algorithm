@@ -2,15 +2,15 @@
 
 ## 📅 3월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 상어 중학교 | [BOJ 21609](https://www.acmicpc.net/problem/21609) |
-| 2 | Puyo Puyo | [BOJ 11559](https://www.acmicpc.net/problem/11559) |
-| 3 | 색종이 붙이기 | [BOJ 17136](https://www.acmicpc.net/problem/17136) |
-| 4 | 최솟값 | [BOJ 10868](https://www.acmicpc.net/problem/10868) |
-| 5 | 전화 돌리기 | [BOJ 24526](https://www.acmicpc.net/problem/24526) |
+| 1 | 네트워크 복구 | [BOJ 2211](https://www.acmicpc.net/problem/2211) |
+| 2 | 공장 | [BOJ 7578](https://www.acmicpc.net/problem/7578) |
+| 3 | 최종 순위 | [BOJ 3665](https://www.acmicpc.net/problem/3665) |
+| 4 | 회사 문화 1 | [BOJ 14267](https://www.acmicpc.net/problem/14267) |
+| 5 | 함께 블록 쌓기 | [BOJ 18427](https://www.acmicpc.net/problem/18427) |
 
 ---
 
@@ -179,6 +179,18 @@
 | 3 | 자동차 공간 | [BOJ 2820](https://www.acmicpc.net/problem/2820) |
 | 4 | 성대나라의 물탱크 | [BOJ 18227](https://www.acmicpc.net/problem/18227) |
 | 5 | 로봇 청소기 | [BOJ 4991](https://www.acmicpc.net/problem/4991) |
+
+---
+
+### ✅ 2주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 상어 중학교 | [BOJ 21609](https://www.acmicpc.net/problem/21609) |
+| 2 | Puyo Puyo | [BOJ 11559](https://www.acmicpc.net/problem/11559) |
+| 3 | 색종이 붙이기 | [BOJ 17136](https://www.acmicpc.net/problem/17136) |
+| 4 | 최솟값 | [BOJ 10868](https://www.acmicpc.net/problem/10868) |
+| 5 | 전화 돌리기 | [BOJ 24526](https://www.acmicpc.net/problem/24526) |
 
 ---
 
