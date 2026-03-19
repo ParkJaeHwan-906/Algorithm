@@ -110,17 +110,16 @@ public class 해산물채취_박재환 {
 
         a %= len;
         if(a < 0) a += len;
-        int[] temp = new int[len];
-        for(int i=0; i<len; i++) temp[(i+a) % len] = origin[i];
+        int start = (len-a)%len;
         id = 0;
         // 위
-        for (int y = y1; y <= y2; y++) board[x1][y] = temp[id++];
+        for (int y = y1; y <= y2; y++) board[x1][y] = origin[(start + id++)%len];
         // 오른쪽
-        for (int x = x1 + 1; x <= x2; x++) board[x][y2] = temp[id++];
+        for (int x = x1 + 1; x <= x2; x++) board[x][y2] = origin[(start + id++)%len];
         // 아래
-        for (int y = y2 - 1; y >= y1; y--) board[x2][y] = temp[id++];
+        for (int y = y2 - 1; y >= y1; y--) board[x2][y] = origin[(start + id++)%len];
         // 왼쪽
-        for (int x = x2 - 1; x > x1; x--) board[x][y1] = temp[id++];
+        for (int x = x2 - 1; x > x1; x--) board[x][y1] = origin[(start + id++)%len];
     }
 
     //----------------------------------------------------------------------
