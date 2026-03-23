@@ -2,15 +2,15 @@
 
 ## 📅 3월 문제 목록
 
-### ✅ 3주차
+### ✅ 4주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 네트워크 복구 | [BOJ 2211](https://www.acmicpc.net/problem/2211) |
-| 2 | 공장 | [BOJ 7578](https://www.acmicpc.net/problem/7578) |
-| 3 | 최종 순위 | [BOJ 3665](https://www.acmicpc.net/problem/3665) |
-| 4 | 회사 문화 1 | [BOJ 14267](https://www.acmicpc.net/problem/14267) |
-| 5 | 함께 블록 쌓기 | [BOJ 18427](https://www.acmicpc.net/problem/18427) |
+| 1 | 마법사 상어와 파이어볼 | [BOJ 20056](https://www.acmicpc.net/problem/20056) |
+| 2 | 일요일 아침의 데이트 | [BOJ 1445](https://www.acmicpc.net/problem/1445) |
+| 3 | 눌러서 잠금 해제 | [BOJ 2723](https://www.acmicpc.net/problem/2723) |
+| 4 | 반도체 설계 | [BOJ 2352](https://www.acmicpc.net/problem/2352) |
+| 5 | 디스크 트리 | [BOJ 7432](https://www.acmicpc.net/problem/7432) |
 
 ---
 
@@ -191,6 +191,18 @@
 | 3 | 색종이 붙이기 | [BOJ 17136](https://www.acmicpc.net/problem/17136) |
 | 4 | 최솟값 | [BOJ 10868](https://www.acmicpc.net/problem/10868) |
 | 5 | 전화 돌리기 | [BOJ 24526](https://www.acmicpc.net/problem/24526) |
+
+---
+
+### ✅ 3주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 네트워크 복구 | [BOJ 2211](https://www.acmicpc.net/problem/2211) |
+| 2 | 공장 | [BOJ 7578](https://www.acmicpc.net/problem/7578) |
+| 3 | 최종 순위 | [BOJ 3665](https://www.acmicpc.net/problem/3665) |
+| 4 | 회사 문화 1 | [BOJ 14267](https://www.acmicpc.net/problem/14267) |
+| 5 | 함께 블록 쌓기 | [BOJ 18427](https://www.acmicpc.net/problem/18427) |
 
 ---
 
