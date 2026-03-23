@@ -1,4 +1,4 @@
-package baekjoon.p21772;
+package jan.week2.boj;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
