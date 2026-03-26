@@ -20,7 +20,8 @@ public class 반도체설계_박재환 {
         arr = new int[n];
         for(int i=0; i<n;) arr[i++] = Integer.parseInt(st.nextToken());
 
-        System.out.println(solution());
+//        System.out.println(solution());
+        System.out.println(solution2());
     }
     static int solution() {
         int[] lis = new int[n];
@@ -40,5 +41,26 @@ public class 반도체설계_박재환 {
         int max = -1;
         for(int i : arr) max = Math.max(i, max);
         return max;
+    }
+    static int solution2() {
+        List<Integer> lis = new ArrayList<>();
+        for(int i : arr) {
+            int insertId = findInsertId(i, lis);
+            if(insertId == lis.size()) lis.add(i);
+            else lis.set(insertId, i);
+        }
+        return lis.size();
+    }
+    static int findInsertId(int num, List<Integer> list) {
+        /**
+         * num 보다 크거나 같은 가장 첫 번째 위치
+         */
+        int l = 0, r = list.size();
+        while(l < r) {
+            int mid = l + (r - l)/2;
+            if(list.get(mid) >= num) r = mid;
+            else l = mid + 1;
+        }
+        return l;
     }
 }
