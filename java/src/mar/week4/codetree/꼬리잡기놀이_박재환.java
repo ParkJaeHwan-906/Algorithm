@@ -120,13 +120,13 @@ public class 꼬리잡기놀이_박재환 {
 	}
 	static void shoot(int r) {
 //		System.out.print("[SHOOT] ");
-		int currentRound = r % (4 * n);
-	    int dir = currentRound / n;  // 0:우, 1:상, 2:좌, 3:하
-	    int line = currentRound % n; // 해당 방향에서 몇 번째 줄인지
+		int currentRound = r % (4 * n);		// 4n 라운드마다 반복됨
+	    int dir = currentRound / n;  
+	    int line = currentRound % n; 
 		
 	    if (dir == 0) { // 왼쪽 -> 오른쪽 (행: line, 열: 0 ~ n-1)
 	        for (int y = 0; y < n; y++) {
-	            if (board[line][y] == 1) { // 사람(머리/몸통/꼬리 통합 1)을 만난 경우
+	            if (board[line][y] == 1) { 
 	                swapHtoT(line, y);
 	                return; // 한 명만 맞으므로 바로 종료
 	            }
