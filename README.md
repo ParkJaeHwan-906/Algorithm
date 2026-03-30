@@ -2,15 +2,15 @@
 
 ## 📅 3월 문제 목록
 
-### ✅ 4주차
+### ✅ 5주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 마법사 상어와 파이어볼 | [BOJ 20056](https://www.acmicpc.net/problem/20056) |
-| 2 | 일요일 아침의 데이트 | [BOJ 1445](https://www.acmicpc.net/problem/1445) |
-| 3 | 눌러서 잠금 해제 | [BOJ 2723](https://www.acmicpc.net/problem/2723) |
-| 4 | 반도체 설계 | [BOJ 2352](https://www.acmicpc.net/problem/2352) |
-| 5 | 디스크 트리 | [BOJ 7432](https://www.acmicpc.net/problem/7432) |
+| 1 | 냅색문제 | [BOJ 1450](https://www.acmicpc.net/problem/1450) |
+| 2 | 계단 수 | [BOJ 1562](https://www.acmicpc.net/problem/1562) |
+| 3 | 미확인 도착지 | [BOJ 9370](https://www.acmicpc.net/problem/9370) |
+| 4 | 뒤집기 3 | [BOJ 1464](https://www.acmicpc.net/problem/1464) |
+| 5 | 좋은 친구 | [BOJ 3078](https://www.acmicpc.net/problem/3078) |
 
 ---
 
@@ -206,5 +206,16 @@
 
 ---
 
+### ✅ 4주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 마법사 상어와 파이어볼 | [BOJ 20056](https://www.acmicpc.net/problem/20056) |
+| 2 | 일요일 아침의 데이트 | [BOJ 1445](https://www.acmicpc.net/problem/1445) |
+| 3 | 눌러서 잠금 해제 | [BOJ 2723](https://www.acmicpc.net/problem/2723) |
+| 4 | 반도체 설계 | [BOJ 2352](https://www.acmicpc.net/problem/2352) |
+| 5 | 디스크 트리 | [BOJ 7432](https://www.acmicpc.net/problem/7432) |
+
 </details>
 
+---
