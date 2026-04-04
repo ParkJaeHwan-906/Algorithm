@@ -20,7 +20,7 @@ public class 좋은친구_박재환 {
         k = Integer.parseInt(st.nextToken());
 
         arr = new int[n];
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             String line = br.readLine().trim();
             arr[i] = line.length();
         }
