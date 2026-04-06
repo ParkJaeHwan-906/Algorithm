@@ -1,16 +1,16 @@
 # 알고리즘 풀이
 
-## 📅 3월 문제 목록
+## 📅 4월 문제 목록
 
-### ✅ 5주차
+### ✅ 1주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 냅색문제 | [BOJ 1450](https://www.acmicpc.net/problem/1450) |
-| 2 | 계단 수 | [BOJ 1562](https://www.acmicpc.net/problem/1562) |
-| 3 | 미확인 도착지 | [BOJ 9370](https://www.acmicpc.net/problem/9370) |
-| 4 | 뒤집기 3 | [BOJ 1464](https://www.acmicpc.net/problem/1464) |
-| 5 | 좋은 친구 | [BOJ 3078](https://www.acmicpc.net/problem/3078) |
+| 1 | 냉방 시스템 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cooling-system/description) |
+| 2 | 정육면체 한번 더 굴리기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cube-rounding-again/description) |
+| 3 | 미로 타워 디펜스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-tower-defense/description) |
+| 4 | 개구리의 여행 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/frog-journey/description) |
+| 5 | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
 
 ---
 
@@ -216,6 +216,20 @@
 | 4 | 반도체 설계 | [BOJ 2352](https://www.acmicpc.net/problem/2352) |
 | 5 | 디스크 트리 | [BOJ 7432](https://www.acmicpc.net/problem/7432) |
 
-</details>
-
 ---
+
+### ✅ 5주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 냅색문제 | [BOJ 1450](https://www.acmicpc.net/problem/1450) |
+| 2 | 계단 수 | [BOJ 1562](https://www.acmicpc.net/problem/1562) |
+| 3 | 미확인 도착지 | [BOJ 9370](https://www.acmicpc.net/problem/9370) |
+| 4 | 뒤집기 3 | [BOJ 1464](https://www.acmicpc.net/problem/1464) |
+| 5 | 좋은 친구 | [BOJ 3078](https://www.acmicpc.net/problem/3078) |
+
+</details>
+<details>
+<summary>🔽 2026.04월 </summary>
+
+</details>
