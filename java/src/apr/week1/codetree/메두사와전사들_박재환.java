@@ -250,7 +250,7 @@ public class 메두사와전사들_박재환 {
 				if(isNotBoard(nx, ny)) continue;
 				if(board[nx][ny] == -1) continue;
 				if(visited[nx][ny]) continue;
-				
+				visited[nx][ny] = true;
 				Node next = new Node(nx, ny, cur);
 				q.offer(next);
 			}
