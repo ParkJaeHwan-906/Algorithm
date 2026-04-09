@@ -1,0 +1,8 @@
+SELECT COUNT(*) AS 'count'
+FROM (
+    SELECT
+        1
+    FROM ANIMAL_INS
+    WHERE NAME IS NOT NULL
+    GROUP BY NAME
+) T
