@@ -128,6 +128,7 @@ public class 코드트리투어_박재환 {
 		PriorityQueue<Travel> temp = new PriorityQueue<>();
 		while(!travels.isEmpty()) {
 			Travel travel = travels.poll();
+			if(idToTravels.get(travel.id) == null) continue;
 			int newCost = dist[travel.dest];
 			travel.cost = newCost;
 			temp.offer(travel);
