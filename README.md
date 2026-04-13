@@ -2,15 +2,15 @@
 
 ## 📅 4월 문제 목록
 
-### ✅ 1주차
+### ✅ 2주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 냉방 시스템 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cooling-system/description) |
-| 2 | 정육면체 한번 더 굴리기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cube-rounding-again/description) |
-| 3 | 미로 타워 디펜스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-tower-defense/description) |
-| 4 | 개구리의 여행 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/frog-journey/description) |
-| 5 | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
+| 1 | 전깃줄 | [BOJ 2565](https://www.acmicpc.net/problem/2565) |
+| 2 | 구간 합 구하기 3 | [BOJ 11658](https://www.acmicpc.net/problem/11658) |
+| 3 | 물병 | [BOJ 1052](https://www.acmicpc.net/problem/1052) |
+| 4 | 마법사 상어와 파이어스톰 | [BOJ 20058](https://www.acmicpc.net/problem/20058) |
+| 5 | 도시 건설 | [BOJ 21924](https://www.acmicpc.net/problem/21924) |
 
 ---
 
@@ -231,5 +231,17 @@
 </details>
 <details>
 <summary>🔽 2026.04월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 냉방 시스템 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cooling-system/description) |
+| 2 | 정육면체 한번 더 굴리기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cube-rounding-again/description) |
+| 3 | 미로 타워 디펜스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-tower-defense/description) |
+| 4 | 개구리의 여행 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/frog-journey/description) |
+| 5 | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
+
+---
 
 </details>
