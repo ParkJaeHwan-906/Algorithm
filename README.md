@@ -2,15 +2,15 @@
 
 ## 📅 4월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 전깃줄 | [BOJ 2565](https://www.acmicpc.net/problem/2565) |
-| 2 | 구간 합 구하기 3 | [BOJ 11658](https://www.acmicpc.net/problem/11658) |
-| 3 | 물병 | [BOJ 1052](https://www.acmicpc.net/problem/1052) |
-| 4 | 마법사 상어와 파이어스톰 | [BOJ 20058](https://www.acmicpc.net/problem/20058) |
-| 5 | 도시 건설 | [BOJ 21924](https://www.acmicpc.net/problem/21924) |
+| 1 | 외판원 순회 3 | [BOJ 16991](https://www.acmicpc.net/problem/16991) |
+| 2 | 뱀과 사다리 게임 | [BOJ 16928](https://www.acmicpc.net/problem/16928) |
+| 3 | 두 배열의 합 | [BOJ 2143](https://www.acmicpc.net/problem/2143) |
+| 4 | 리모컨 | [BOJ 1107](https://www.acmicpc.net/problem/1107) |
+| 5 | 달리기 | [BOJ 2517](https://www.acmicpc.net/problem/2517) |
 
 ---
 
@@ -243,5 +243,15 @@
 | 5 | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
 
 ---
+
+### ✅ 2주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 전깃줄 | [BOJ 2565](https://www.acmicpc.net/problem/2565) |
+| 2 | 구간 합 구하기 3 | [BOJ 11658](https://www.acmicpc.net/problem/11658) |
+| 3 | 물병 | [BOJ 1052](https://www.acmicpc.net/problem/1052) |
+| 4 | 마법사 상어와 파이어스톰 | [BOJ 20058](https://www.acmicpc.net/problem/20058) |
+| 5 | 도시 건설 | [BOJ 21924](https://www.acmicpc.net/problem/21924) |
 
 </details>
