@@ -1,16 +1,23 @@
 # 알고리즘 풀이
 
-## 📅 4월 문제 목록
+## 📅 5월 문제 목록
 
-### ✅ 4주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 외판원 순회 3 | [BOJ 16991](https://www.acmicpc.net/problem/16991) |
-| 2 | 뱀과 사다리 게임 | [BOJ 16928](https://www.acmicpc.net/problem/16928) |
-| 3 | 두 배열의 합 | [BOJ 2143](https://www.acmicpc.net/problem/2143) |
-| 4 | 리모컨 | [BOJ 1107](https://www.acmicpc.net/problem/1107) |
-| 5 | 달리기 | [BOJ 2517](https://www.acmicpc.net/problem/2517) |
+| 1 | 바이러스 검사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/virus-detector/description) |
+| 2 | 나무 섭지 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7726) |
+| 3 | 전투 로봇 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/fighting-robot/description) |
+| 4 | 조립라인 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6287) |
+| 5 | 술래잡기체스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-chess2/description) |
+| 6 | 징검다리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6293) |
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 5월 식품들의 총매출 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131117) |
+| 2 | 조건에 맞는 사용자 정보 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/164670) |
+| 3 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |
 
 ---
 
@@ -265,5 +272,25 @@
 | 5 | 달리기 | [BOJ 2517](https://www.acmicpc.net/problem/2517) |
 
 ---
+
+### ✅ 4주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 외판원 순회 3 | [BOJ 16991](https://www.acmicpc.net/problem/16991) |
+| 2 | 뱀과 사다리 게임 | [BOJ 16928](https://www.acmicpc.net/problem/16928) |
+| 3 | 두 배열의 합 | [BOJ 2143](https://www.acmicpc.net/problem/2143) |
+| 4 | 리모컨 | [BOJ 1107](https://www.acmicpc.net/problem/1107) |
+| 5 | 달리기 | [BOJ 2517](https://www.acmicpc.net/problem/2517) |
+
+</details>
+
+<details>
+<summary>🔽 2026.05월 </summary>
+
+<면접준비>
+
+---
+
 
 </details>
