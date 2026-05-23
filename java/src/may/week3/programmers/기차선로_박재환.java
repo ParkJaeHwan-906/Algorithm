@@ -32,6 +32,7 @@ class Solution {
     void init(int[][] grid) {
         this.n = grid.length;
         this.m = grid[0].length;
+        this.allCombi = 0;
         this.grid = grid;
     }
 
@@ -59,7 +60,6 @@ class Solution {
     int[][] grid;
     int allCombi;
     public int solution(int[][] grid) {
-        allCombi = 0;
         /**
          * grid
          * 0 : 빈칸
@@ -70,42 +70,99 @@ class Solution {
 
         // 격자의 1, 1에는 1번 선로가 놓여 있음
         // 즉 (0, 0) -> (0, 1) 이동만 가능
-        boolean[][] installed = new boolean[n][m];
-        installed[0][0] = true;
+        int[][] installed = new int[n][m];
+        installed[0][0] = 1;
         getAllCombi(0, 0, 1, LEFT, installed);
 
         return allCombi;
     }
 
-    void getAllCombi(int x, int y, int railId, int inDir, boolean[][] installed) {
-        if(x == n - 1 && y == m - 1) {
-            allCombi++;
+    void getAllCombi(int x, int y, int railId, int inDir, int[][] installed) {
+        int outDir = rails[railId][inDir];      // inDir 로 들어왔을 때, 나가는 방향
+
+        if(outDir == BLOCKED) return;       // 이동 불가한 방향
+
+        int used = (1 << inDir) | (1 << outDir);            // 사용하는 방향
+
+        if((installed[x][y] & used) == used) return;        // 이미 이전에 방문한 기록이 있음 - 중복
+
+        installed[x][y] |= used;
+
+        // 현 위치가 도착지임
+        if (x == n - 1 && y == m - 1) {
+            if (isAllSatisfied(installed)) {
+                allCombi++;
+            }
+
+            installed[x][y] ^= used;
             return;
         }
 
-        // 현 위치에서 이동 가능한 방향
-        for(int nextDir : rails[railId]) {
-            if(nextDir == inDir) continue;      // 무한루프 방지
-            if(nextDir == -1) continue;         // 이동할 수 없는 방향
+        // 이동 후 위치
+        int nx = x + dx[outDir];
+        int ny = y + dy[outDir];
 
-            int nx = x + dx[nextDir];
-            int ny = y + dy[nextDir];
+        if (!isNotBoard(nx, ny) && grid[nx][ny] != BLOCKED) {
+            int nextInDir = opposite(outDir);
 
-            // 격자 밖 또는 장애물이 있는 또는 이미 설치된 선로가 있는 경우
-            if(isNotBoard(nx, ny)) continue;
-            if(grid[nx][ny] == -1) continue;
-            if(installed[nx][ny]) continue;
+            if (grid[nx][ny] > 0) {     // 이미 선로가 놓여있는 경우
+                int nextRailId = grid[nx][ny];
 
-            installed[nx][ny] = true;
-            // 철로를 설치할 수 있음
-            for(int id = 1; id < 8; id++) {
-                int[] rail = rails[id];
-                if(rail[(nextDir + 2) % 4] == BLOCKED) continue;      // 이어질 수 없는 선로
-
-                getAllCombi(nx, ny, id, (nextDir + 2) % 4, installed);
+                if (rails[nextRailId][nextInDir] != BLOCKED) {
+                    getAllCombi(nx, ny, nextRailId, nextInDir, installed);
+                }
             }
-            installed[nx][ny] = false;
+
+            else if (grid[nx][ny] == 0) {
+                for (int id = 1; id <= 7; id++) {
+                    if (rails[id][nextInDir] == BLOCKED) {
+                        continue;
+                    }
+
+                    grid[nx][ny] = id;
+                    getAllCombi(nx, ny, id, nextInDir, installed);
+                    grid[nx][ny] = 0;
+                }
+            }
         }
+
+        installed[x][y] ^= used;
+    }
+
+    boolean isAllSatisfied(int[][] installed) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                int railId = grid[i][j];
+
+                if (railId <= 0) {
+                    continue;
+                }
+
+                int needMask = getNeedMask(railId);
+
+                if ((installed[i][j] & needMask) != needMask) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    int getNeedMask(int railId) {
+        int mask = 0;
+
+        for (int dir = 0; dir < 4; dir++) {
+            if (rails[railId][dir] != BLOCKED) {
+                mask |= (1 << dir);
+            }
+        }
+
+        return mask;
+    }
+
+    int opposite(int dir) {
+        return (dir + 2) % 4;
     }
 
     boolean isNotBoard(int x, int y) {
