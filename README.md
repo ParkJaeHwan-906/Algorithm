@@ -6,18 +6,24 @@
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 바이러스 검사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/virus-detector/description) |
-| 2 | 나무 섭지 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7726) |
-| 3 | 전투 로봇 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/fighting-robot/description) |
-| 4 | 조립라인 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6287) |
-| 5 | 술래잡기체스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-chess2/description) |
-| 6 | 징검다리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6293) |
+| 1 | 아기 고래의 첫 항해 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baby-whale-first-voyage/description) |
+| 2 | 홀짝트리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/388354) |
+| 3 | 자율주행 전기차 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/autonomous-electric-car/description) |
+| 4 | 사라지는 발판 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+| 5 | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
+| 6 | 거리 합 구하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6258) |
+| 7 | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 8 | 원자 충돌 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/atom-collision/description) |
+| 9 | 성적 평균 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6294) |
+| 10 | 가로등 설치 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description) |
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 5월 식품들의 총매출 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131117) |
-| 2 | 조건에 맞는 사용자 정보 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/164670) |
-| 3 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |
+| 1 | DATETIME에서 DATE로 형 변환 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |
+| 2 | 있었는데요 없었습니다 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59043) |
+| 3 | 취소되지 않은 진료 예약 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132204) |
+| 4 | 가격이 제일 비싼 식품의 정보 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |
+| 5 | 업그레이드 할 수 없는 아이템 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/273712) |
 
 ---
 
@@ -289,6 +295,23 @@
 <summary>🔽 2026.05월 </summary>
 
 <면접준비>
+
+### ✅ 3주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 바이러스 검사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/virus-detector/description) |
+| 2 | 나무 섭지 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7726) |
+| 3 | 전투 로봇 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/fighting-robot/description) |
+| 4 | 조립라인 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6287) |
+| 5 | 술래잡기체스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-chess2/description) |
+| 6 | 징검다리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6293) |
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 5월 식품들의 총매출 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131117) |
+| 2 | 조건에 맞는 사용자 정보 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/164670) |
+| 3 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |
 
 ---
 
