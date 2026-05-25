@@ -1,0 +1,7 @@
+SELECT
+    ANIMAL_ID,
+    NAME,
+    DATE(DATETIME) AS 날짜
+FROM ANIMAL_INS;
+
+--풀이시간: 2분, AI사용: X
