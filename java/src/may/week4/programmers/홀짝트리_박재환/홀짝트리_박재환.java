@@ -12,7 +12,7 @@ public class 홀짝트리_박재환 {
         int[] nodes = {11, 9, 3, 2, 4, 6};
         int[][] edges = {{9, 11}, {2, 3}, {6, 3}, {3, 4}};
 
-        may.week4.programmers.사라지는발판_박재환.Solution solution = new may.week4.programmers.사라지는발판_박재환.Solution();
+        Solution solution = new Solution();
         int[] result = solution.solution(nodes, edges);
         System.out.println(Arrays.toString(result));
     }
