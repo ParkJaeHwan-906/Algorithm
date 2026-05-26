@@ -1,4 +1,4 @@
-package may.week4.programmers;
+package may.week4.programmers.홀짝트리_박재환;
 
 import java.util.*;
 
@@ -12,7 +12,7 @@ public class 홀짝트리_박재환 {
         int[] nodes = {11, 9, 3, 2, 4, 6};
         int[][] edges = {{9, 11}, {2, 3}, {6, 3}, {3, 4}};
 
-        Solution solution = new Solution();
+        may.week4.programmers.사라지는발판_박재환.Solution solution = new may.week4.programmers.사라지는발판_박재환.Solution();
         int[] result = solution.solution(nodes, edges);
         System.out.println(Arrays.toString(result));
     }
