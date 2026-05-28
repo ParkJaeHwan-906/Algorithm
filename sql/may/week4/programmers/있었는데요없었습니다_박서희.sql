@@ -7,4 +7,4 @@ ON i.ANIMAL_ID = o.ANIMAL_ID
 WHERE i.DATETIME > o.DATETIME
 ORDER BY i.DATETIME;
 
--- 풀이시간: 5분, AI 사용: X
+-- 풀이 시간: 5분, AI 사용: X

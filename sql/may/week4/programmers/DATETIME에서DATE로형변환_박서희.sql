@@ -4,4 +4,4 @@ SELECT
     DATE(DATETIME) AS 날짜
 FROM ANIMAL_INS;
 
---풀이시간: 2분, AI사용: X
+-- 풀이 시간: 2분, AI 사용: X
