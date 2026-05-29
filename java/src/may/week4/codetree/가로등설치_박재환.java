@@ -38,6 +38,7 @@ public class 가로등설치_박재환 {
      */
     static int n, m;        // n : 거리, m : 초기 가로등 개수
     static List<Lamp> lamps;
+    static int firstId, lastId;
     static PriorityQueue<Between> betweens;
 
     static String init(BufferedReader br) throws IOException {
@@ -67,6 +68,9 @@ public class 가로등설치_박재환 {
 
         lamps = new ArrayList<>();
         betweens = new PriorityQueue<>();
+
+        firstId = 1;
+        lastId = m;
 
         lamps.add(new Lamp(-1, -1, -1));       // 1 - based
         for (int i = 1; i < m + 1; i++) {
@@ -164,12 +168,16 @@ public class 가로등설치_박재환 {
         int lId = deleteLamp.l;
         int rId = deleteLamp.r;
 
+        if (deleteId == firstId) firstId = rId;
+        if (deleteId == lastId) lastId = lId;
+
         // 램프 삭제
         deleteLamp.delete();
 
         // 기존 램프들 연결
         if(lId != -1) lamps.get(lId).r = rId;
         if(rId != -1) lamps.get(rId).l = lId;
+
 
         if(lId != -1 && rId != -1) {
             int dist = lamps.get(rId).x - lamps.get(lId).x;
@@ -179,53 +187,24 @@ public class 가로등설치_박재환 {
     }
 
     static int query() {
-        int l = 1, r = n;
-        int midR = n;
-        while(l <= r) {
-            int mid = l + (r - l) / 2;
-            if(isPossible(mid)) {
-                midR = Math.min(midR, mid);
-                r = mid - 1;
-            } else l = mid + 1;
-        }
-        return midR;
-    }
+        int result = 0;
 
-    static boolean isPossible(int mid) {
-        int prev = 0;
-        int curId = getFirstLampId();
+        Lamp first = lamps.get(firstId);
+        Lamp last = lamps.get(lastId);
 
-        while(curId != -1) {
-            Lamp cur = lamps.get(curId);
+        result = Math.max(result, 2 * (first.x - 1));
+        result = Math.max(result, 2 * (n - last.x));
 
-            int left = cur.x - mid;
-            int right = cur.x + mid;
-
-            if(left > prev + 1) return false;           // 이전에 밝힌 위치부터 밝히지 못함
-
-            prev = Math.max(prev, right);
-            if(prev >= n) return true;
-
-            curId = cur.r;
+        while(!betweens.isEmpty()) {
+            Between temp = betweens.peek();
+            if(isValid(temp)) break;
+            betweens.poll();
         }
 
-        return false;
-    }
+        int maxDist = betweens.isEmpty() ? 0 : betweens.peek().dist;
+        result = Math.max(result, maxDist);
 
-    static int getFirstLampId() {
-        int x = n + 1;
-        int id = -1;
-
-        for(int i = 1; i < lamps.size(); i++) {
-            if(lamps.get(i).x == -1) continue;
-
-            if(lamps.get(i).x < x) {
-                x = lamps.get(i).x;
-                id = i;
-            }
-        }
-
-        return id;
+        return result;
     }
 }
 
