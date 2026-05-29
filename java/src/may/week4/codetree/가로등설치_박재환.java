@@ -3,6 +3,10 @@ package may.week4.codetree;
 import java.util.*;
 import java.io.*;
 
+/**
+ * AI 사용 여부 O
+ * => query() 함수에서 초기에는 이분탐색으로 접근 -> 비교군 특정으로 수정했습니다.
+ */
 public class 가로등설치_박재환 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
