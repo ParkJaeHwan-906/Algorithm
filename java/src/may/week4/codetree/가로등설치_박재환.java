@@ -110,7 +110,7 @@ public class 가로등설치_박재환 {
         }
 
         public int compareTo(Between o) {
-            if(this.dist == o.dist) return Integer.compare(this.lId, o.lId);
+            if(this.dist == o.dist) return Integer.compare(lamps.get(this.lId).x, lamps.get(o.lId).x);
             return Integer.compare(o.dist, this.dist);
         }
     }
