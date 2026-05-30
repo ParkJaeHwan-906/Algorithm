@@ -1,7 +1,9 @@
+package may.week3.codetree;
+
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class 바이러스검사_박서희 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

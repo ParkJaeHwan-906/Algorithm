@@ -1,7 +1,9 @@
+package may.week3.codetree;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class 술래잡기체스_박서희 {
 
     static int[] dx = {-1, -1, 0, 1, 1, 1, 0, -1};
     static int[] dy = {0, -1, -1, -1, 0, 1, 1, 1};

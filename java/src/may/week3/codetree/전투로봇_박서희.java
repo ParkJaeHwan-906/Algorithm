@@ -1,7 +1,9 @@
+package may.week3.codetree;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class 전투로봇_박서희 {
 
     static int n;
     static int[][] grid;

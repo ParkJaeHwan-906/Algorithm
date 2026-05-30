@@ -1,7 +1,9 @@
+package may.week3.ngv;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class 나무섭지_박서희 {
 
     static List<int[]> ghosts = new ArrayList<>();
     static int n, m;

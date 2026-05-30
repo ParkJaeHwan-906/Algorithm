@@ -1,43 +1,46 @@
 # 알고리즘 풀이
 
-## 📅 5월 문제 목록
+## 📅 6월 문제 목록
 
-### ✅ 3주차
+### ✅ 1주차
 
-| 번호 | 문제 이름 | 링크 |
-|------|-----------|------|
-| 1 | 아기 고래의 첫 항해 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baby-whale-first-voyage/description) |
-| 2 | 홀짝트리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/388354) |
-| 3 | 자율주행 전기차 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/autonomous-electric-car/description) |
-| 4 | 사라지는 발판 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
-| 5 | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
-| 6 | 거리 합 구하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6258) |
-| 7 | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
-| 8 | 원자 충돌 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/atom-collision/description) |
-| 9 | 성적 평균 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6294) |
-| 10 | 가로등 설치 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description) |
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 시공의 돌풍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/heros-of-storm/description) |
+| 2  | 야근 지수 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
+| 3  | 미지의 공간 탈출 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/escape-unknown-space/description) |
+| 4  | 효도 여행 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7649) |
+| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
+| 6  | 순서대로 방문하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6246) |
+| 7  | 윷놀이 사기단 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/woodstick-fraud/description) |
+| 8  | 보석 쇼핑 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |
+| 9  | 불안한 무빙워크 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/unstable-moving-walk/description) |
+| 10 | 업무 처리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6251) |
 
-| 번호 | 문제 이름 | 링크 |
-|------|-----------|------|
-| 1 | DATETIME에서 DATE로 형 변환 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |
-| 2 | 있었는데요 없었습니다 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59043) |
-| 3 | 취소되지 않은 진료 예약 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132204) |
-| 4 | 가격이 제일 비싼 식품의 정보 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |
-| 5 | 업그레이드 할 수 없는 아이템 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/273712) |
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 우유와 요거트가 담긴 장바구니 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/62284) |
+| 2 | 친구 수 집계하기 | [SOLVESQL](https://solvesql.com/problems/number-of-friends/) |
+| 3 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |
+| 4 | 세션 재정의하기 | [SOLVESQL](https://solvesql.com/problems/redefine-session/) |
+| 5 | 헤비 유저가 소유한 장소 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77487) |
 
 ---
 
 <details>
 <summary>🔽 문제 출처 사이트 </summary>
   
-| 이름 | 링크 |
-|-----------|-----------|
+| 이름 | 링크                              |
+|---|--------|
 | 백준 | [BOJ](https://www.acmicpc.net/) |
 | 현대 NGV | [Hyundai-NGV](https://exam.hyundai-ngv.com/practice?type=ALGORITHM&page=0) |
 | 프로그래머스 | [Programmers](https://programmers.co.kr/) |
 | 코드트리 | [CodeTree](https://www.codetree.ai/ko/trail-info) |
 | SWEA | [SWEA](https://swexpertacademy.com/main/main.do) |
 | LeetCode | [LeetCode](https://leetcode.com/) |
+| SolveSQL | [SolveSQL](https://solvesql.com/) |
+
 </details>
 
 ### 📅 지난 스터디 기록
@@ -267,6 +270,8 @@
 | 4 | 마법사 상어와 파이어스톰 | [BOJ 20058](https://www.acmicpc.net/problem/20058) |
 | 5 | 도시 건설 | [BOJ 21924](https://www.acmicpc.net/problem/21924) |
 
+---
+
 ### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
@@ -294,7 +299,9 @@
 <details>
 <summary>🔽 2026.05월 </summary>
 
-<면접준비>
+### ✅ 1주차 ~ 2주차
+
+- 면접준비
 
 ### ✅ 3주차
 
@@ -315,5 +322,27 @@
 
 ---
 
+### ✅ 4주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 아기 고래의 첫 항해 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baby-whale-first-voyage/description) |
+| 2 | 홀짝트리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/388354) |
+| 3 | 자율주행 전기차 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/autonomous-electric-car/description) |
+| 4 | 사라지는 발판 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+| 5 | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
+| 6 | 거리 합 구하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6258) |
+| 7 | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 8 | 원자 충돌 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/atom-collision/description) |
+| 9 | 성적 평균 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6294) |
+| 10 | 가로등 설치 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description) |
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | DATETIME에서 DATE로 형 변환 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59414) |
+| 2 | 있었는데요 없었습니다 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59043) |
+| 3 | 취소되지 않은 진료 예약 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132204) |
+| 4 | 가격이 제일 비싼 식품의 정보 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |
+| 5 | 업그레이드 할 수 없는 아이템 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/273712) |
 
 </details>
