@@ -2,29 +2,29 @@
 
 ## 📅 6월 문제 목록
 
-### ✅ 1주차
+### ✅ 2주차
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 시공의 돌풍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/heros-of-storm/description) |
-| 2  | 야근 지수 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
-| 3  | 미지의 공간 탈출 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/escape-unknown-space/description) |
-| 4  | 효도 여행 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7649) |
-| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
-| 6  | 순서대로 방문하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6246) |
-| 7  | 윷놀이 사기단 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/woodstick-fraud/description) |
-| 8  | 보석 쇼핑 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |
-| 9  | 불안한 무빙워크 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/unstable-moving-walk/description) |
-| 10 | 업무 처리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6251) |
+| 1  | 택배하자 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/delivery-service/description) |
+| 2  | 부대 복귀 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132266) |
+| 3  | 승자독식 모노폴리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-monopoly/description) |
+| 4  | 교차로 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6256) |
+| 5  | 바이러스 백신 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/vaccine-for-virus/description) |
+| 6  | 출퇴근길 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6248) |
+| 7  | 돌아가는 팔각 의자 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rounding-eight-angle/description) |
+| 8  | 기지국 설치 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |
+| 9  | 정육면체 굴리기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cube-rounding/description) |
+| 10 | 셔틀버스 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
-| 1 | 우유와 요거트가 담긴 장바구니 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/62284) |
-| 2 | 친구 수 집계하기 | [SOLVESQL](https://solvesql.com/problems/number-of-friends/) |
-| 3 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |
-| 4 | 세션 재정의하기 | [SOLVESQL](https://solvesql.com/problems/redefine-session/) |
-| 5 | 헤비 유저가 소유한 장소 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77487) |
+| 1 | 년, 월, 성별 별 상품 구매 회원 수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |
+| 2 | 레스토랑 요일 별 구매금액 Top 3 영수증 | [SOLVESQL](https://solvesql.com/problems/top-3-bill/) |
+| 3 | FrontEnd 개발자 찾기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/276035) |
+| 4 | 카테고리 별 매출 비율 | [SOLVESQL](https://solvesql.com/problems/revenue-pct-per-category/) |
+| 5 | 언어별 개발자 분류하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/276036) |
 
 ---
 
@@ -344,5 +344,36 @@
 | 3 | 취소되지 않은 진료 예약 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132204) |
 | 4 | 가격이 제일 비싼 식품의 정보 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |
 | 5 | 업그레이드 할 수 없는 아이템 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/273712) |
+
+</details>
+
+<details>
+<summary>🔽 2026.06월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 시공의 돌풍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/heros-of-storm/description) |
+| 2  | 야근 지수 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
+| 3  | 미지의 공간 탈출 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/escape-unknown-space/description) |
+| 4  | 효도 여행 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/7649) |
+| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
+| 6  | 순서대로 방문하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6246) |
+| 7  | 윷놀이 사기단 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/woodstick-fraud/description) |
+| 8  | 보석 쇼핑 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |
+| 9  | 불안한 무빙워크 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/unstable-moving-walk/description) |
+| 10 | 업무 처리 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6251) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 우유와 요거트가 담긴 장바구니 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/62284) |
+| 2 | 친구 수 집계하기 | [SOLVESQL](https://solvesql.com/problems/number-of-friends/) |
+| 3 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/151139) |
+| 4 | 세션 재정의하기 | [SOLVESQL](https://solvesql.com/problems/redefine-session/) |
+| 5 | 헤비 유저가 소유한 장소 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77487) |
+
+---
 
 </details>
