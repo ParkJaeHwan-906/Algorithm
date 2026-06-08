@@ -6,7 +6,7 @@
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 택배하자 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/delivery-service/description) |
+| 1  | 택배하차 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/delivery-service/description) |
 | 2  | 부대 복귀 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/132266) |
 | 3  | 승자독식 모노폴리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-monopoly/description) |
 | 4  | 교차로 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6256) |
