@@ -3,6 +3,11 @@ package jun.week2.ngv;
 import java.util.*;
 import java.io.*;
 
+/**
+ * [풀이 시간]
+ * 00:40:38
+ * AI 사용 여부 X
+ */
 public class 교차로_박재환 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
