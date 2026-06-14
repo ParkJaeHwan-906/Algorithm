@@ -134,21 +134,6 @@ public class 미지의공간탈출_정리_박서희 {
                         s[1] = nextC;
                         grid[s[0]][s[1]] = 9;
                     }
-                } else {
-                    int[] next = move3D(board, r, c, dir);
-
-                    if (next != null) {
-                        if (next[0] == BOTTOM && grid[next[1]][next[2]] == 4) continue;
-                        s[4] = next[0];
-                        s[0] = next[1];
-                        s[1] = next[2];
-
-                        if (s[4] == BOTTOM) {
-                            grid[s[0]][s[1]] = 9;
-                        } else {
-                            grid3D[s[4]][s[0]][s[1]] = 9;
-                        }
-                    }
                 }
             }
         }
