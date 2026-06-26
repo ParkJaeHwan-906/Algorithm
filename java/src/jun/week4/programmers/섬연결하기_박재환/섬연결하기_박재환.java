@@ -2,6 +2,11 @@ package jun.week4.programmers.섬연결하기_박재환;
 
 import java.util.PriorityQueue;
 
+/**
+ * [풀이 시간]
+ * 00:11:55
+ * AI 사용 여부 X
+ */
 public class 섬연결하기_박재환 {
     public static void main(String[] args) {
         int n = 4;
