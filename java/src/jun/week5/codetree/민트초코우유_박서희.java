@@ -60,8 +60,8 @@ public class 민트초코우유_박서희 {
                 students[i][j].B++;
     }
 
-    public static void lunch() {
 
+    public static void lunch() {
         int[][] visited = new int[N][N];
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
@@ -71,9 +71,10 @@ public class 민트초코우유_박서희 {
         }
     }
 
-    public static void dinner() {
-        Collections.sort(representatives, favoriteComparator);
 
+    public static void dinner() {
+
+        Collections.sort(representatives, favoriteComparator);
         for (Student rep : representatives) {
             if (rep.defense > 0) continue;
             int curB = rep.B;
@@ -83,7 +84,6 @@ public class 민트초코우유_박서희 {
             rep.B = 1;
 
             while (x > 0) {
-
                 cr += dx[d];
                 cc += dy[d];
                 if (!inRange(cr, cc)) break;
@@ -92,17 +92,19 @@ public class 민트초코우유_박서희 {
                 if (x > y) {
                     x -= (y + 1);
                     students[cr][cc].B++;
-                    students[cr][cc].defense = 2;
+                    students[cr][cc].defense = 1;
+                    students[cr][cc].favorite = cf;
                     if (x == 0) break;
                 } else {
                     students[cr][cc].favorite |= cf;
                     students[cr][cc].B += x;
-                    students[cr][cc].defense = 2;
+                    students[cr][cc].defense = 1;
                     break;
                 }
             }
         }
     }
+
 
     public static void calculate() {
         int[] score = new int[8];
@@ -120,8 +122,8 @@ public class 민트초코우유_박서희 {
         System.out.println(sb);
     }
 
-    private static void bfs(int i, int j, int[][] visited) {
 
+    private static void bfs(int i, int j, int[][] visited) {
         PriorityQueue<Student> group = new PriorityQueue<>();
         Queue<int[]> queue = new LinkedList<>();
         group.add(students[i][j]);
@@ -155,6 +157,7 @@ public class 민트초코우유_박서희 {
 
     }
 
+
     private static int score(int favorite) {
         if (favorite == 1 || favorite == 2 || favorite == 4)
             return 0;
@@ -165,10 +168,11 @@ public class 민트초코우유_박서희 {
         return 2;
     }
 
+
     private static boolean inRange(int x, int y) {
         return 0 <= x && x < N && 0 <= y && y < N;
-
     }
+
 
     static class Student implements Comparable<Student> {
         int favorite = 0; // 민트, 초코, 우유 비트마스킹으로 관리
@@ -190,6 +194,7 @@ public class 민트초코우유_박서희 {
         }
     }
 
+
     static Comparator<Student> favoriteComparator = (a, b) -> {
         int sa = score(a.favorite);
         int sb = score(b.favorite);
@@ -197,4 +202,5 @@ public class 민트초코우유_박서희 {
         if (sa != sb) return Integer.compare(sa, sb);
         return a.compareTo(b);
     };
+
 }
