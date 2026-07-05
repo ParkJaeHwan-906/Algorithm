@@ -1,30 +1,30 @@
 # 알고리즘 풀이
 
-## 📅 6월 문제 목록
+## 📅 7월 문제 목록
 
-### ✅ 5주차
+### ✅ 1주차
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 민트 초코 우유 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) |
-| 2  | 연속 펄스 부분 수열의 합 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
-| 3  | 코드트리 등산 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mountain-climbing-games/description) |
-| 4  | 순서대로 방문하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6246) |
-| 5  | 2048 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/2048-game/description) |
-| 6  | 도둑질 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42897) |
-| 7  | 격자 숫자 놀이 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/matrix-number-play/description) |
-| 8  | 기둥과 보 설치 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60061) |
-| 9  | 미생물 연구 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) |
-| 10 | 동전 프로모션 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/coin-promotion/description) |
+| 1  | 코드트리 투어 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-tour/description) |
+| 2  | 표 편집 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |
+| 3  | 생명과학부 랩 인턴 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/biology-lab-intern/description) |
+| 4  | 이중우선순위큐 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42628) |
+| 5  | 아기 바다거북의 대모험: 해저 화산 지대 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/a-little-sea-turtles-big-adventure/description) |
+| 6  | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 7  | 메두사와 전사들 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/medusa-and-warriors/description) |
+| 8  | 자동차 테스트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/car-test/description) |
+| 9  | 토스트 계란틀 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/toast-eggmold/description) |
+| 10 | 편안한 워크숍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/easy-workshop/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
-| 1 | 주문량이 많은 아이스크림들 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |
-| 2 | 다음날도 서울숲의 미세먼지 농도는 나쁨 | [SOLVESQL](https://solvesql.com/problems/bad-finedust-measure/) |
-| 3 | 카테고리 별 도서 판매량 집계하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |
-| 4 | 배송 예정일 예측 성공과 실패 | [SOLVESQL](https://solvesql.com/problems/estimated-delivery-date/) |
-| 5 | 대장균들의 자식의 수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/299305) |
+| 1 | 입양 시각 구하기(2) | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59413) |
+| 2 | 할부는 몇 개월로 해드릴까요 | [SOLVESQL](https://solvesql.com/problems/installment-month/) |
+| 3 | 노선별 평균 역 사이 거리 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/284531) |
+| 4 | 이달의 작가 후보 찾기 | [SOLVESQL](https://solvesql.com/problems/monthly-author-candidates/) |
+| 5 | 연도별 대장균 크기의 편차 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/299310) |
 
 ---
 
@@ -453,5 +453,29 @@
 | 5 | 그룹별 조건에 맞는 식당 목록 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 
 ---
+
+### ✅ 5주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 민트 초코 우유 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) |
+| 2  | 연속 펄스 부분 수열의 합 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
+| 3  | 코드트리 등산 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mountain-climbing-games/description) |
+| 4  | 순서대로 방문하기 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6246) |
+| 5  | 2048 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/2048-game/description) |
+| 6  | 도둑질 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42897) |
+| 7  | 격자 숫자 놀이 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/matrix-number-play/description) |
+| 8  | 기둥과 보 설치 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60061) |
+| 9  | 미생물 연구 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) |
+| 10 | 동전 프로모션 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/coin-promotion/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 주문량이 많은 아이스크림들 조회하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |
+| 2 | 다음날도 서울숲의 미세먼지 농도는 나쁨 | [SOLVESQL](https://solvesql.com/problems/bad-finedust-measure/) |
+| 3 | 카테고리 별 도서 판매량 집계하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |
+| 4 | 배송 예정일 예측 성공과 실패 | [SOLVESQL](https://solvesql.com/problems/estimated-delivery-date/) |
+| 5 | 대장균들의 자식의 수 구하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/299305) |
 
 </details>
