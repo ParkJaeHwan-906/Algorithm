@@ -3,6 +3,10 @@ package jul.week1.codetree;
 import java.util.*;
 import java.io.*;
 
+/*
+  문제풀이 시간: 중간중간 시간날 때 푼거라서 시간 X
+  AI 사용 여부: O Travel에 거리와 이익을 저장하려니까 로직이 어려워져서 Travel 객체와 dist[] 배열 분리.
+ */
 public class 코드트리투어_박서희 {
     static StringBuilder sb = new StringBuilder();
     static final int MAX_ID = 30002;
