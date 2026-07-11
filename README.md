@@ -34,6 +34,7 @@
 | 이름 | 링크                              |
 |---|--------|
 | 백준 | [BOJ](https://www.acmicpc.net/) |
+| 정올 | [Jungol](https://jungol.co.kr/problem) |
 | 현대 NGV | [Hyundai-NGV](https://exam.hyundai-ngv.com/practice?type=ALGORITHM&page=0) |
 | 프로그래머스 | [Programmers](https://programmers.co.kr/) |
 | 코드트리 | [CodeTree](https://www.codetree.ai/ko/trail-info) |
