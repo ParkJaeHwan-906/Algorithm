@@ -17,10 +17,6 @@ public class 포탑부수기_박재환 {
             this.x = x;
             this.y = y;
         }
-
-        boolean isSame(Loc o) {
-            return this.x == o.x && this.y == o.y;
-        }
     }
 
     static class Tower extends Loc {
@@ -128,12 +124,10 @@ public class 포탑부수기_박재환 {
 
     static void attackByCanon(Tower attacker, Tower target, int time) {
         for(int dir = 0; dir < 8; dir++) {
-            int nx = (target.x + dx[dir] + n);
-            int ny = (target.y + dy[dir] + m);
+            int nx = (target.x + dx[dir] + n) % n;
+            int ny = (target.y + dy[dir] + m) % m;
 
-            if(nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
             if(nx == attacker.x && ny == attacker.y) continue;      // 공격자는 피해를 받지 않음
-            if(nx == target.x && ny == target.y) continue;          // 대상은 아래에서 별도 처리
 
             damage(board[nx][ny], attacker.power / 2, time);
         }
@@ -195,7 +189,6 @@ public class 포탑부수기_박재환 {
     static void damage(Tower tower, int amount, int time) {
         tower.power = Math.max(0, tower.power - amount);
         tower.active = true;
-        tower.lastAttacked = time;
     }
 
     static Tower pickTarget(Tower attacker) {
