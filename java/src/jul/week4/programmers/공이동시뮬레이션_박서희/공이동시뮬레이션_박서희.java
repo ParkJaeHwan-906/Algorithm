@@ -1,4 +1,4 @@
-package jul.week3.programmers.공이동시뮬레이션_박서희;
+package jul.week4.programmers.공이동시뮬레이션_박서희;
 
 /*
   문제풀이 시간: 1시간+
