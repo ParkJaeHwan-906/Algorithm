@@ -2,29 +2,29 @@
 
 ## 📅 8월 문제 목록
 
-### ✅ 1주차
+### ✅ 2주차
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 왕실의 기사 대결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/all/problems/royal-knight-duel/description) |
-| 2  | 무지의 먹방 라이브 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
-| 3  | 코드트리 채점기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/all/problems/codetree-judger/description) |
-| 4  | 3가지 숫자 정렬하기 | [JUNGOL](https://jungol.co.kr/problem/1016) |
-| 5  | 방화벽 설치하기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/firewall-installation/description) |
-| 6  | 동전이 부족해 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/acpc/problems/minimize-coin/description) |
-| 7  | 시공의 돌풍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/heros-of-storm/description) |
-| 8  | 우체국(Post Office) | [JUNGOL](https://jungol.co.kr/problem/1087) |
-| 9  | 디버깅 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/debugging/description) |
-| 10 | 채광 로봇 시뮬레이션 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/mining-robot-simulation/description) |
+| 1  | 코드트리 메신저 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-messenger/description) |
+| 2  | 입국심사 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
+| 3  | 메이즈 러너 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description) |
+| 4  | 양과 늑대 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
+| 5  | 코드트리 빵 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mon-bread/description) |
+| 6  | 고속도로 배송 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/acpc/problems/highway-delivery/description) |
+| 7  | 병원 거리 최소화하기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/min-of-hospital-distance/description) |
+| 8  | 비밀번호 | [JUNGOL](https://jungol.co.kr/problem/2468) |
+| 9  | 조삼모사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/three-at-dawn-and-four-at-dusk/description) |
+| 10 | Garage Game | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/garage-game/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
-| 1 | 게임 평점 예측하기 1 | [SOLVESQL](https://solvesql.com/problems/predict-game-scores-1/) |
-| 2 | 서울숲 요일별 대기오염도 계산하기 | [SOLVESQL](https://solvesql.com/problems/weekday-stats-airpollution/) |
-| 3 | 폐쇄할 따릉이 정류소 찾기 2 | [SOLVESQL](https://solvesql.com/problems/find-unnecessary-station-2/) |
-| 4 | 멀티 플랫폼 게임 찾기 | [SOLVESQL](https://solvesql.com/problems/multiplatform-games/) |
-| 5 | 전국 카페 주소 데이터 정제하기 | [SOLVESQL](https://solvesql.com/problems/refine-cafe-address/) |
+| 1 | 크리스마스를 기념할 완벽한 와인 찾기 🥂 | [SOLVESQL](https://solvesql.com/problems/wines-for-friends/) |
+| 2 | 두 대회 연속으로 출전한 기록이 있는 배구 선수 | [SOLVESQL](https://solvesql.com/problems/volleyball-players-in-two-consecutive-olympics/) |
+| 3 | 올림픽 메달이 있는 배구 선수 | [SOLVESQL](https://solvesql.com/problems/volleyball-players-with-medals/) |
+| 4 | 장르, 연도별 게임 평론가 점수 구하기 | [SOLVESQL](https://solvesql.com/problems/critic-scores-by-genre-and-year/) |
+| 5 | 초기 사용자의 친구 관계 찾기 | [SOLVESQL](https://solvesql.com/problems/friendship-between-early-users/) |
 
 ---
 
@@ -585,6 +585,37 @@
 | 3 | 조건별로 분류하여 주문상태 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131113) |
 | 4 | 온라인 쇼핑몰의 월 별 매출액 집계 | [SOLVESQL](https://solvesql.com/problems/shoppingmall-monthly-summary/) |
 | 5 | 없어진 기록 찾기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/59042) |
+
+---
+
+</details>
+
+<details>
+<summary>🔽 2026.08월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 왕실의 기사 대결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/all/problems/royal-knight-duel/description) |
+| 2  | 무지의 먹방 라이브 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
+| 3  | 코드트리 채점기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/all/problems/codetree-judger/description) |
+| 4  | 3가지 숫자 정렬하기 | [JUNGOL](https://jungol.co.kr/problem/1016) |
+| 5  | 방화벽 설치하기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/firewall-installation/description) |
+| 6  | 동전이 부족해 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/acpc/problems/minimize-coin/description) |
+| 7  | 시공의 돌풍 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/heros-of-storm/description) |
+| 8  | 우체국(Post Office) | [JUNGOL](https://jungol.co.kr/problem/1087) |
+| 9  | 디버깅 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/debugging/description) |
+| 10 | 채광 로봇 시뮬레이션 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/mining-robot-simulation/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 게임 평점 예측하기 1 | [SOLVESQL](https://solvesql.com/problems/predict-game-scores-1/) |
+| 2 | 서울숲 요일별 대기오염도 계산하기 | [SOLVESQL](https://solvesql.com/problems/weekday-stats-airpollution/) |
+| 3 | 폐쇄할 따릉이 정류소 찾기 2 | [SOLVESQL](https://solvesql.com/problems/find-unnecessary-station-2/) |
+| 4 | 멀티 플랫폼 게임 찾기 | [SOLVESQL](https://solvesql.com/problems/multiplatform-games/) |
+| 5 | 전국 카페 주소 데이터 정제하기 | [SOLVESQL](https://solvesql.com/problems/refine-cafe-address/) |
 
 ---
 
