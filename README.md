@@ -2,29 +2,9 @@
 
 ## 📅 8월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
-| 번호 | 문제 이름 | 링크                                                      |
-|----|------|---------------------------------------------------------|
-| 1  | 코드트리 메신저 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-messenger/description) |
-| 2  | 입국심사 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
-| 3  | 메이즈 러너 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description) |
-| 4  | 양과 늑대 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
-| 5  | 코드트리 빵 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mon-bread/description) |
-| 6  | 고속도로 배송 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/acpc/problems/highway-delivery/description) |
-| 7  | 병원 거리 최소화하기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/min-of-hospital-distance/description) |
-| 8  | 비밀번호 | [JUNGOL](https://jungol.co.kr/problem/2468) |
-| 9  | 조삼모사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/three-at-dawn-and-four-at-dusk/description) |
-| 10 | Garage Game | [CODETREE](https://www.codetree.ai/ko/frequent-problems/hsat/problems/garage-game/description) |
-
-
-| 번호 | 문제 이름   | 링크                                                         |
-|------|---------|------------------------------------------------------------|
-| 1 | 크리스마스를 기념할 완벽한 와인 찾기 🥂 | [SOLVESQL](https://solvesql.com/problems/wines-for-friends/) |
-| 2 | 두 대회 연속으로 출전한 기록이 있는 배구 선수 | [SOLVESQL](https://solvesql.com/problems/volleyball-players-in-two-consecutive-olympics/) |
-| 3 | 올림픽 메달이 있는 배구 선수 | [SOLVESQL](https://solvesql.com/problems/volleyball-players-with-medals/) |
-| 4 | 장르, 연도별 게임 평론가 점수 구하기 | [SOLVESQL](https://solvesql.com/problems/critic-scores-by-genre-and-year/) |
-| 5 | 초기 사용자의 친구 관계 찾기 | [SOLVESQL](https://solvesql.com/problems/friendship-between-early-users/) |
+면접준비......
 
 ---
 
