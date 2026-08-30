@@ -2,9 +2,29 @@
 
 ## 📅 8월 문제 목록
 
-### ✅ 4주차
+### ✅ 5주차
 
-면접으로 쉬어갑니다...
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 택배하차 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/delivery-service/description) |
+| 2  | 풍선 터뜨리기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
+| 3  | 미로 타워 디펜스 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-tower-defense/description) |
+| 4  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
+| 5  | 꼬리잡기놀이 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/tail-catch-play/description) |
+| 6  | 강의실 배정 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6291) |
+| 7  | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
+| 8  | 도넛 한 입 | [JUNGOL](https://jungol.co.kr/problem/5662?cursor=IjE5MTkzIiwwLDA=) |
+| 9  | 성적 평가 | [HYUNDAI NGV](https://exam.hyundai-ngv.com/practice/6250) |
+| 10 | 해적 선장 코디 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pirate-captain-coddy/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 레스토랑의 요일별 VIP | [SOLVESQL](https://solvesql.com/problems/restaurant-vip/) |
+| 2 | 레스토랑의 대목 | [SOLVESQL](https://solvesql.com/problems/high-season-of-restaurant/) |
+| 3 | 전력 소비량 이동 평균 구하기 | [SOLVESQL](https://solvesql.com/problems/moving-average-of-power-consumption/) |
+| 4 | 펭귄 날개와 몸무게의 상관 계수 | [SOLVESQL](https://solvesql.com/problems/correlation-penguin/) |
+| 5 | 유량(Flow)와 저량(Stock) | [SOLVESQL](https://solvesql.com/problems/flow-and-stock/) |
 
 ---
 
@@ -648,6 +668,12 @@
 | 3 | 올림픽 메달이 있는 배구 선수 | [SOLVESQL](https://solvesql.com/problems/volleyball-players-with-medals/) |
 | 4 | 장르, 연도별 게임 평론가 점수 구하기 | [SOLVESQL](https://solvesql.com/problems/critic-scores-by-genre-and-year/) |
 | 5 | 초기 사용자의 친구 관계 찾기 | [SOLVESQL](https://solvesql.com/problems/friendship-between-early-users/) |
+
+---
+
+### ✅ 3주차
+
+- 면접준비
 
 ---
 
