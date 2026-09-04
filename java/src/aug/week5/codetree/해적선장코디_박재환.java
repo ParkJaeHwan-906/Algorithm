@@ -73,7 +73,7 @@ public class 해적선장코디_박재환 {
         int p = Integer.parseInt(st.nextToken());
         int r = Integer.parseInt(st.nextToken());
         ships.put(id, new Ship(id, p, r, -1));
-        availableShips.offer(ships.get(id));
+        waitShips.offer(ships.get(id));
     }
 
     static void change(StringTokenizer st) {
