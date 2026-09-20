@@ -2,29 +2,29 @@
 
 ## 📅 9월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 여왕 개미 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/queen-ant/description) |
-| 2  | 해밀턴 순환회로2 | [JUNGOL](https://jungol.co.kr/problem/1545) |
-| 3  | 미생물 연구 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) |
-| 4  | 입국심사 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
-| 5  | 개구리의 여행 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/frog-journey/description) |
-| 6  | 징검다리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43236) |
-| 7  | 민트초코우유 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) |
-| 8  | 디스크 컨트롤러 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
-| 9  | 이중우선순위큐 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42628) |
-| 10 | 코드트리 등산 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mountain-climbing-games/description) |
+| 1  | 코드트리 DB | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-db/description) |
+| 2  | 용액 | [JUNGOL](https://jungol.co.kr/problem/2300) |
+| 3  | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
+| 4  | 구간의 합(PURQ) 1 | [JUNGOL](https://jungol.co.kr/problem/3297) |
+| 5  | 코드트리 투어 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-tour/description) |
+| 6  | 해밀턴 순환회로 | [JUNGOL](https://jungol.co.kr/problem/1681) |
+| 7  | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
+| 8  | 등수 찾기(ranking) | [JUNGOL](https://jungol.co.kr/problem/3428) |
+| 9  | 미로만들기 | [JUNGOL](https://jungol.co.kr/problem/1696) |
+| 10 | 고대 문명 유적 탐사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ancient-ruin-exploration/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
-| 1 | 스테디셀러 작가 찾기 | [SOLVESQL](https://solvesql.com/problems/find-steadyseller-writers/) |
-| 2 | 세션 유지 시간을 10분으로 재정의하기 | [SOLVESQL](https://solvesql.com/problems/redefine-session-2/) |
-| 3 | 인플루언서 마케팅 후보 찾 | [SOLVESQL](https://solvesql.com/problems/influencer-marketing-candidates/) |
-| 4 | 연속된 이틀간의 누적 주문 계산하기 | [SOLVESQL](https://solvesql.com/problems/cumulative-orders/) |
-| 5 | 도서별 VIP 고객 찾기 | [SOLVESQL](https://solvesql.com/problems/vip-of-cities/) |
+| 1 | A/B 테스트를 위한 버킷 나누기 2 | [SOLVESQL](https://solvesql.com/problems/ab-testing-buckets-2/) |
+| 2 | 연도별 배송 업체 이용 내역 분석하기 | [SOLVESQL](https://solvesql.com/problems/yearly-shipping-usage/) |
+| 3 | 한국 감독의 영화 찾기 | [SOLVESQL](https://solvesql.com/problems/find-movies-by-korean-artists/) |
+| 4 | 매출이 높은 배우 찾기 | [SOLVESQL](https://solvesql.com/problems/top-revenue-actors/) |
+| 5 | 레스토랑의 주중, 주말 매출액 비교하기 | [SOLVESQL](https://solvesql.com/problems/revenue-weekday-weekend/) |
 
 ---
 
@@ -704,6 +704,32 @@
 | 3 | 두 테이블 결합하기 | [SOLVESQL](https://solvesql.com/problems/join/) |
 | 4 | 레스토랑 웨이터의 팁 분석 | [SOLVESQL](https://solvesql.com/problems/tip-analysis/) |
 | 5 | 폐쇄할 따릉이 정류소 찾기 1 | [SOLVESQL](https://solvesql.com/problems/find-unnecessary-station-1/) |
+
+---
+
+### ✅ 2주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 여왕 개미 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/queen-ant/description) |
+| 2  | 해밀턴 순환회로2 | [JUNGOL](https://jungol.co.kr/problem/1545) |
+| 3  | 미생물 연구 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) |
+| 4  | 입국심사 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
+| 5  | 개구리의 여행 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/frog-journey/description) |
+| 6  | 징검다리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43236) |
+| 7  | 민트초코우유 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) |
+| 8  | 디스크 컨트롤러 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
+| 9  | 이중우선순위큐 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42628) |
+| 10 | 코드트리 등산 게임 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-mountain-climbing-games/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | 스테디셀러 작가 찾기 | [SOLVESQL](https://solvesql.com/problems/find-steadyseller-writers/) |
+| 2 | 세션 유지 시간을 10분으로 재정의하기 | [SOLVESQL](https://solvesql.com/problems/redefine-session-2/) |
+| 3 | 인플루언서 마케팅 후보 찾 | [SOLVESQL](https://solvesql.com/problems/influencer-marketing-candidates/) |
+| 4 | 연속된 이틀간의 누적 주문 계산하기 | [SOLVESQL](https://solvesql.com/problems/cumulative-orders/) |
+| 5 | 도서별 VIP 고객 찾기 | [SOLVESQL](https://solvesql.com/problems/vip-of-cities/) |
 
 ---
 
