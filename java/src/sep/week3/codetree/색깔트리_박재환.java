@@ -19,17 +19,21 @@ public class 색깔트리_박재환 {
         int id;                         // 고유 id
         int pId;                        // 부모 id
         int maxDepth;                   // 최대 깊이
-        // ==========================================
-        List<Node> childNodes;           // 서브트리
+        int color;                      // 자신의 색
+
+        List<Node> childNodes;          // 직접 자식
         int curHeight;
-        int colorSet;
-        Node(int id, int pId, int maxDepth, int colorSet) {
+        int colorSet;                   // 자신 + 서브트리의 색 집합
+
+        Node(int id, int pId, int maxDepth, int color) {
             this.id = id;
             this.pId = pId;
             this.maxDepth = maxDepth;
+            this.color = color;
+
             this.childNodes = new ArrayList<>();
-            this.curHeight = 1;                     // 초기 높이는 1
-            this.colorSet = (1 << colorSet);
+            this.curHeight = 1;
+            this.colorSet = (1 << color);
         }
     }
 
@@ -47,11 +51,12 @@ public class 색깔트리_박재환 {
             } else if(type == CHANGE) {
                 change(st);
             } else if(type == COLOR_QUERY) {
-
+                sb.append(colorQuery(st)).append('\n');
             } else if(type == SCORE_QUERY) {
-
+                sb.append(scoreQuery(st)).append('\n');
             }
         }
+        System.out.print(sb);
     }
 
     static void add(StringTokenizer st) {
@@ -99,10 +104,43 @@ public class 색깔트리_박재환 {
         int id = Integer.parseInt(st.nextToken());
         int color = Integer.parseInt(st.nextToken());
         Node cur = nodes.get(id);
+        // 현재 노드를 루트로 하는 서브트리 전체 색 변경
+        propagationNewColor(cur, color);
+        // 부모부터 루트까지 colorSet 재계산
+        Node pNode = nodes.get(cur.pId);
+        while (pNode != null) {
+            updateColorSet(pNode);
+            pNode = nodes.get(pNode.pId);
+        }
+    }
 
+    static void updateColorSet(Node node) {
+        int colorSet = (1 << node.color);
+        for (Node child : node.childNodes) {
+            colorSet |= child.colorSet;
+        }
+        node.colorSet = colorSet;
     }
 
     static void propagationNewColor(Node node, int color) {
-        i
+        node.color = color;
+        node.colorSet = (1 << color);
+        for(Node child : node.childNodes) {
+            propagationNewColor(child, color);
+        }
+    }
+
+    static int colorQuery(StringTokenizer st) {
+        int id = Integer.parseInt(st.nextToken());
+        return nodes.get(id).color;
+    }
+
+    static long scoreQuery(StringTokenizer st) {
+        long score = 0L;
+        for(Node node : nodes.values()) {
+            int colorCount = Integer.bitCount(node.colorSet);
+            score += (colorCount * colorCount);
+        }
+        return score;
     }
 }
