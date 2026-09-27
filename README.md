@@ -2,29 +2,25 @@
 
 ## 📅 9월 문제 목록
 
-### ✅ 3주차
+### ✅ 4주차
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 코드트리 DB | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-db/description) |
-| 2  | 용액 | [JUNGOL](https://jungol.co.kr/problem/2300) |
-| 3  | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
-| 4  | 구간의 합(PURQ) 1 | [JUNGOL](https://jungol.co.kr/problem/3297) |
-| 5  | 코드트리 투어 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-tour/description) |
-| 6  | 해밀턴 순환회로 | [JUNGOL](https://jungol.co.kr/problem/1681) |
-| 7  | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
-| 8  | 등수 찾기(ranking) | [JUNGOL](https://jungol.co.kr/problem/3428) |
-| 9  | 미로만들기 | [JUNGOL](https://jungol.co.kr/problem/1696) |
-| 10 | 고대 문명 유적 탐사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ancient-ruin-exploration/description) |
+| 1  | 코드트리 오마카세 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-omakase/description) |
+| 2  | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 3  | 루돌프의 반란 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rudolph-rebellion/description) |
+| 4  | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
+| 5  | 코드트리 메신저 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-messenger/description) |
+| 6  | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
+| 7  | 왕실의 기사 대결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/royal-knight-duel/description) |
+| 8  | 섬 연결하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
+| 9  | 표 편집 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |
+| 10 | 코드트리 채점기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-judger/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
-| 1 | A/B 테스트를 위한 버킷 나누기 2 | [SOLVESQL](https://solvesql.com/problems/ab-testing-buckets-2/) |
-| 2 | 연도별 배송 업체 이용 내역 분석하기 | [SOLVESQL](https://solvesql.com/problems/yearly-shipping-usage/) |
-| 3 | 한국 감독의 영화 찾기 | [SOLVESQL](https://solvesql.com/problems/find-movies-by-korean-artists/) |
-| 4 | 매출이 높은 배우 찾기 | [SOLVESQL](https://solvesql.com/problems/top-revenue-actors/) |
-| 5 | 레스토랑의 주중, 주말 매출액 비교하기 | [SOLVESQL](https://solvesql.com/problems/revenue-weekday-weekend/) |
+| 1 | COS PRO | [GOORMEDU](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) |
 
 ---
 
@@ -730,6 +726,32 @@
 | 3 | 인플루언서 마케팅 후보 찾 | [SOLVESQL](https://solvesql.com/problems/influencer-marketing-candidates/) |
 | 4 | 연속된 이틀간의 누적 주문 계산하기 | [SOLVESQL](https://solvesql.com/problems/cumulative-orders/) |
 | 5 | 도서별 VIP 고객 찾기 | [SOLVESQL](https://solvesql.com/problems/vip-of-cities/) |
+
+---
+
+### ✅ 3주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 코드트리 DB | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-db/description) |
+| 2  | 용액 | [JUNGOL](https://jungol.co.kr/problem/2300) |
+| 3  | 색깔 트리 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/color-tree/description) |
+| 4  | 구간의 합(PURQ) 1 | [JUNGOL](https://jungol.co.kr/problem/3297) |
+| 5  | 코드트리 투어 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-tour/description) |
+| 6  | 해밀턴 순환회로 | [JUNGOL](https://jungol.co.kr/problem/1681) |
+| 7  | 마법의 숲 탐색 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description) |
+| 8  | 등수 찾기(ranking) | [JUNGOL](https://jungol.co.kr/problem/3428) |
+| 9  | 미로만들기 | [JUNGOL](https://jungol.co.kr/problem/1696) |
+| 10 | 고대 문명 유적 탐사 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ancient-ruin-exploration/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | A/B 테스트를 위한 버킷 나누기 2 | [SOLVESQL](https://solvesql.com/problems/ab-testing-buckets-2/) |
+| 2 | 연도별 배송 업체 이용 내역 분석하기 | [SOLVESQL](https://solvesql.com/problems/yearly-shipping-usage/) |
+| 3 | 한국 감독의 영화 찾기 | [SOLVESQL](https://solvesql.com/problems/find-movies-by-korean-artists/) |
+| 4 | 매출이 높은 배우 찾기 | [SOLVESQL](https://solvesql.com/problems/top-revenue-actors/) |
+| 5 | 레스토랑의 주중, 주말 매출액 비교하기 | [SOLVESQL](https://solvesql.com/problems/revenue-weekday-weekend/) |
 
 ---
 
