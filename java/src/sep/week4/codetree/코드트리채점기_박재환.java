@@ -50,6 +50,7 @@ public class 코드트리채점기_박재환 {
     static Map<String, PriorityQueue<Problem>> waitQueue;
     static Set<String> waitUrls;
     static Problem[] judges;
+    static PriorityQueue<Integer> availableJudges;
     static Map<String, Problem> lastHistory;
     static Set<String> progressingProblems;
     static void init(BufferedReader br) throws IOException {
@@ -83,6 +84,10 @@ public class 코드트리채점기_박재환 {
         waitUrls = new HashSet<>();
         n = Integer.parseInt(st.nextToken());
         judges = new Problem[n + 1];
+        availableJudges = new PriorityQueue<>();
+        for(int i = 1; i <= n; i++) {
+            availableJudges.offer(i);
+        }
         lastHistory = new HashMap<>();
         progressingProblems = new HashSet<>();
         String url = st.nextToken();
@@ -105,6 +110,9 @@ public class 코드트리채점기_박재환 {
 
     static void tryJudge(StringTokenizer st) {
         int t = Integer.parseInt(st.nextToken());
+        if(availableJudges.isEmpty()) {
+            return;
+        }
         Problem candProblem = null;
         for(String domain : waitQueue.keySet()) {
             if(progressingProblems.contains(domain)) {
@@ -127,20 +135,15 @@ public class 코드트리채점기_박재환 {
         if(candProblem == null) {
             return;
         }
+        int jId = availableJudges.poll();
+        judges[jId] = candProblem;
+        candProblem.startTime = t;
+        progressingProblems.add(candProblem.domain);
         waitQueue.get(candProblem.domain).poll();
         waitUrls.remove(candProblem.url);
         if(waitQueue.get(candProblem.domain).isEmpty()) {
             waitQueue.remove(candProblem.domain);
         }
-        for(int i = 1; i <= n; i++) {
-            if(judges[i] != null) {
-                continue;
-            }
-            judges[i] = candProblem;
-            break;
-        }
-        candProblem.startTime = t;
-        progressingProblems.add(candProblem.domain);
     }
 
     static void end(StringTokenizer st) {
@@ -154,6 +157,7 @@ public class 코드트리채점기_박재환 {
         problem.endTime = t;
         lastHistory.put(problem.domain, problem);
         progressingProblems.remove(problem.domain);
+        availableJudges.add(jId);
     }
 
     static int qry(StringTokenizer st) {
