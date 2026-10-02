@@ -22,11 +22,15 @@ public class 코드트리채점기_박재환 {
         String url;     // url
         String domain;
         int pId;
+        int startTime;
+        int endTime;
         Problem(int inTime, int priority, String url) {
             this.inTime = inTime;
             this.priority = priority;
             this.url = url;
             seperateUrl(url);
+            this.startTime = -1;
+            this.endTime = -1;
         }
         void seperateUrl(String url) {
             String[] arr = url.split("/");
@@ -45,6 +49,9 @@ public class 코드트리채점기_박재환 {
     static int n;
     static Map<String, PriorityQueue<Problem>> waitQueue;
     static Set<String> waitUrls;
+    static Problem[] judges;
+    static Map<String, Problem> lastHistory;
+    static Set<String> progressingProblems;
     static void init(BufferedReader br) throws IOException {
         StringTokenizer st;
         StringBuilder sb = new StringBuilder();
@@ -58,8 +65,12 @@ public class 코드트리채점기_박재환 {
             else if(type == REQ) {
                 req(st);
             }
-            else if(type == TRY) {}
-            else if(type == END) {}
+            else if(type == TRY) {
+                tryJudge(st);
+            }
+            else if(type == END) {
+                end(st);
+            }
             else if(type == QRY) {
                 sb.append(qry(st)).append('\n');
             }
@@ -71,6 +82,9 @@ public class 코드트리채점기_박재환 {
         waitQueue = new HashMap<>();
         waitUrls = new HashSet<>();
         n = Integer.parseInt(st.nextToken());
+        judges = new Problem[n + 1];
+        lastHistory = new HashMap<>();
+        progressingProblems = new HashSet<>();
         String url = st.nextToken();
         Problem initProblem = new Problem(0, 1, url);
         waitQueue.computeIfAbsent(initProblem.domain, k -> new PriorityQueue<>()).offer(initProblem);
@@ -87,6 +101,59 @@ public class 코드트리채점기_박재환 {
         Problem problem = new Problem(t, p, u);
         waitQueue.computeIfAbsent(problem.domain, k -> new PriorityQueue<>()).offer(problem);
         waitUrls.add(problem.url);
+    }
+
+    static void tryJudge(StringTokenizer st) {
+        int t = Integer.parseInt(st.nextToken());
+        Problem candProblem = null;
+        for(String domain : waitQueue.keySet()) {
+            if(progressingProblems.contains(domain)) {
+                continue;
+            }
+            Problem lastProblem = lastHistory.get(domain);
+            if(lastProblem != null) {
+                int gap = lastProblem.endTime - lastProblem.startTime;
+                if(t < lastProblem.startTime + (gap * 3)) {
+                    continue;
+                }
+            }
+            Problem problem = waitQueue.get(domain).peek();
+            if(candProblem == null
+                || candProblem.priority > problem.priority
+                || (candProblem.priority == problem.priority && candProblem.inTime > problem.inTime)) {
+                candProblem = problem;
+            }
+        }
+        if(candProblem == null) {
+            return;
+        }
+        waitQueue.get(candProblem.domain).poll();
+        waitUrls.remove(candProblem.url);
+        if(waitQueue.get(candProblem.domain).isEmpty()) {
+            waitQueue.remove(candProblem.domain);
+        }
+        for(int i = 1; i <= n; i++) {
+            if(judges[i] != null) {
+                continue;
+            }
+            judges[i] = candProblem;
+            break;
+        }
+        candProblem.startTime = t;
+        progressingProblems.add(candProblem.domain);
+    }
+
+    static void end(StringTokenizer st) {
+        int t = Integer.parseInt(st.nextToken());
+        int jId =  Integer.parseInt(st.nextToken());
+        if(judges[jId] == null) {
+            return;
+        }
+        Problem problem = judges[jId];
+        judges[jId] = null;
+        problem.endTime = t;
+        lastHistory.put(problem.domain, problem);
+        progressingProblems.remove(problem.domain);
     }
 
     static int qry(StringTokenizer st) {
