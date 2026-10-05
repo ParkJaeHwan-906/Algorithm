@@ -6,16 +6,16 @@
 
 | 번호 | 문제 이름 | 링크                                                      |
 |----|------|---------------------------------------------------------|
-| 1  | 코드트리 오마카세 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-omakase/description) |
-| 2  | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
-| 3  | 루돌프의 반란 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rudolph-rebellion/description) |
-| 4  | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
-| 5  | 코드트리 메신저 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-messenger/description) |
-| 6  | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
-| 7  | 왕실의 기사 대결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/royal-knight-duel/description) |
-| 8  | 섬 연결하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
-| 9  | 표 편집 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |
-| 10 | 코드트리 채점기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-judger/description) |
+| 1  | 코디의 보석 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) |
+| 2  | 마법의 엘리베이터 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
+| 3  | 메이즈러너 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description) |
+| 4  | 발전소 회로 복구 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/468375) |
+| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
+| 6  | 징검다리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43236) |
+| 7  | 포탑 부수기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/destroy-the-turret/description) |
+| 8  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
+| 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
+| 10 | 산타의 선물공장 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
@@ -754,5 +754,29 @@
 | 5 | 레스토랑의 주중, 주말 매출액 비교하기 | [SOLVESQL](https://solvesql.com/problems/revenue-weekday-weekend/) |
 
 ---
+
+### ✅ 4주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 코드트리 오마카세 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-omakase/description) |
+| 2  | 네트워크 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 3  | 루돌프의 반란 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rudolph-rebellion/description) |
+| 4  | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
+| 5  | 코드트리 메신저 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-messenger/description) |
+| 6  | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
+| 7  | 왕실의 기사 대결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/royal-knight-duel/description) |
+| 8  | 섬 연결하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
+| 9  | 표 편집 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |
+| 10 | 코드트리 채점기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-judger/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | COS PRO | [GOORMEDU](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) |
+
+</details>
+<details>
+<summary>🔽 2026.10월 </summary>
 
 </details>
