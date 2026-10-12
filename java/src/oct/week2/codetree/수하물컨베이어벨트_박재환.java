@@ -102,8 +102,6 @@ public class 수하물컨베이어벨트_박재환 {
             moveBoxes(turn);
             // 2. 적재 및 파손
             put(turn);
-
-            printState(turn);
         }
         System.out.print(getResult());
     }
