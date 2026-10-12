@@ -15,7 +15,7 @@
 | 7  | 포탑 부수기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/destroy-the-turret/description) |
 | 8  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
 | 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
-| 10 | 산타의 선물공장 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
+| 10 | 산타의 선물공장 2 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
 
 
 | 번호 | 문제 이름   | 링크                                                         |
