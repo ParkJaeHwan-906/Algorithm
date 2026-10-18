@@ -1,26 +1,22 @@
 # 알고리즘 풀이
 
-## 📅 9월 문제 목록
+## 📅 10월 문제 목록
 
-### ✅ 4주차
+### ✅ 2주차
 
-| 번호 | 문제 이름 | 링크                                                      |
-|----|------|---------------------------------------------------------|
-| 1  | 코디의 보석 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) |
-| 2  | 마법의 엘리베이터 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
-| 3  | 메이즈러너 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description) |
-| 4  | 발전소 회로 복구 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/468375) |
-| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
-| 6  | 징검다리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43236) |
-| 7  | 포탑 부수기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/destroy-the-turret/description) |
-| 8  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
-| 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
-| 10 | 산타의 선물공장 2 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 코디의 퍼즐 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cody-puzzle-workshop/description) |
+| 2 | 베스트앨범 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42579) |
+| 3 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
+| 4 | 동굴 탐험 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
+| 5 | 호수의 물결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) |
+| 6 | 보호 필름 | [SWEA](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=2112) |
+| 7 | 식량 보급 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/commissariat/description) |
+| 8 | 빛의 경로 사이클 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |
+| 9 | 경주로 건설 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
+| 10 | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
 
-
-| 번호 | 문제 이름   | 링크                                                         |
-|------|---------|------------------------------------------------------------|
-| 1 | COS PRO | [GOORMEDU](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) |
 
 ---
 
@@ -778,5 +774,25 @@
 </details>
 <details>
 <summary>🔽 2026.10월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크                                                      |
+|----|------|---------------------------------------------------------|
+| 1  | 코디의 보석 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) |
+| 2  | 마법의 엘리베이터 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
+| 3  | 메이즈러너 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description) |
+| 4  | 발전소 회로 복구 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/468375) |
+| 5  | 토끼와 경주 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/rabit-and-race/description) |
+| 6  | 징검다리 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43236) |
+| 7  | 포탑 부수기 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/destroy-the-turret/description) |
+| 8  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
+| 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
+| 10 | 산타의 선물공장 2 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | COS PRO | [GOORMEDU](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) |
 
 </details>
