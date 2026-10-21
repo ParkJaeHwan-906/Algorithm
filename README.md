@@ -11,6 +11,7 @@
 | 3 | 외판원 순회 | [CODETREE 풀이](java/src/oct/week3/codetree/외판원순회_박재환.java) |
 | 4 | 범준이의 제주도 여행 계획 | [SWEA 풀이](java/src/oct/week3/swea/범준이의제주도여행계획_박재환.java) · [최적화 풀이](java/src/oct/week3/swea/범준이의제주도여행계획_최적화_박재환.java) |
 | 7 | 트리 바꾸기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj) |
+| 8 | 코딩 테스트 공부 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
 
 ---
 
