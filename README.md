@@ -794,6 +794,7 @@
 | 번호 | 문제 이름   | 링크                                                         |
 |------|---------|------------------------------------------------------------|
 | 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
+| 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
 
 
 ---
