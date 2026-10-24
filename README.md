@@ -795,6 +795,7 @@
 |------|---------|------------------------------------------------------------|
 | 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
 | 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
+| 3 | Rank Scores | [LEETCODE](https://leetcode.com/problems/rank-scores/) |
 
 
 ---
