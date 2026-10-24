@@ -16,6 +16,7 @@
 | 8 | 코딩 테스트 공부 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
 | 9 | 최적 경로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) |
 | 10 | 하나로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) |
+| 11 | 여행경로 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
 
 ---
 
