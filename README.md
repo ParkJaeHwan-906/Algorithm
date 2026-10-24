@@ -8,8 +8,8 @@
 |------|-----------|------|
 | 1 | Minimum Initial Energy to Finish Tasks | [LEETCODE](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) |
 | 2 | 피로도 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
-| 3 | 외판원 순회 | CODETREE (문제 URL 확인 필요) |
-| 4 | 범준이의 제주도 여행 계획 | [SWEA 풀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4x9oyaCR8DFAUx) |
+| 3 | 외판원 순회 | [CODETREE](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-traveling-salesman-problem/description) |
+| 4 | 범준이의 제주도 여행 계획 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4x9oyaCR8DFAUx) |
 | 5 | 미로 탈출 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |
 | 6 | 보급로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) |
 | 7 | 트리 바꾸기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj) |
@@ -17,6 +17,14 @@
 | 9 | 최적 경로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) |
 | 10 | 하나로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) |
 | 11 | 여행경로 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
+
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
+| 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
+| 3 | Rank Scores | [LEETCODE](https://leetcode.com/problems/rank-scores/) |
+| 4 | 그룹별 조건에 맞는 식당 목록 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 
 ---
 
@@ -789,15 +797,6 @@
 | 8  | 등굣길 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
 | 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
 | 10 | 산타의 선물공장 2 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
-
-
-| 번호 | 문제 이름   | 링크                                                         |
-|------|---------|------------------------------------------------------------|
-| 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
-| 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
-| 3 | Rank Scores | [LEETCODE](https://leetcode.com/problems/rank-scores/) |
-| 4 | 그룹별 조건에 맞는 식당 목록 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
-
 
 ---
 
