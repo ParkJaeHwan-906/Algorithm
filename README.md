@@ -796,6 +796,7 @@
 | 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
 | 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
 | 3 | Rank Scores | [LEETCODE](https://leetcode.com/problems/rank-scores/) |
+| 4 | 그룹별 조건에 맞는 식당 목록 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 
 
 ---
