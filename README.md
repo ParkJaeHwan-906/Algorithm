@@ -2,21 +2,29 @@
 
 ## 📅 10월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 코디의 퍼즐 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cody-puzzle-workshop/description) |
-| 2 | 베스트앨범 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42579) |
-| 3 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
-| 4 | 동굴 탐험 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
-| 5 | 호수의 물결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) |
-| 6 | 보호 필름 | [SWEA](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=2112) |
-| 7 | 식량 보급 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/commissariat/description) |
-| 8 | 빛의 경로 사이클 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |
-| 9 | 경주로 건설 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
-| 10 | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
+| 1 | Minimum Initial Energy to Finish Tasks | [LEETCODE](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) |
+| 2 | 피로도 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
+| 3 | 외판원 순회 | [CODETREE](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-traveling-salesman-problem/description) |
+| 4 | 범준이의 제주도 여행 계획 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4x9oyaCR8DFAUx) |
+| 5 | 미로 탈출 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |
+| 6 | 보급로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) |
+| 7 | 트리 바꾸기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZyNVrgKAVXHBIRj) |
+| 8 | 코딩 테스트 공부 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |
+| 9 | 최적 경로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) |
+| 10 | 하나로 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) |
+| 11 | 여행경로 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
 
+
+| 번호 | 문제 이름   | 링크                                                         |
+|------|---------|------------------------------------------------------------|
+| 1 | Consecutive Numbers | [LEETCODE](https://leetcode.com/problems/consecutive-numbers/) |
+| 2 | Department Highest Salary | [LEETCODE](https://leetcode.com/problems/department-highest-salary/) |
+| 3 | Rank Scores | [LEETCODE](https://leetcode.com/problems/rank-scores/) |
+| 4 | 그룹별 조건에 맞는 식당 목록 출력하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |
 
 ---
 
@@ -790,9 +798,21 @@
 | 9  | 징검다리 건너기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
 | 10 | 산타의 선물공장 2 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/santa-gift-factory-2/description) |
 
+---
 
-| 번호 | 문제 이름   | 링크                                                         |
-|------|---------|------------------------------------------------------------|
-| 1 | COS PRO | [GOORMEDU](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) |
+### ✅ 2주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 코디의 퍼즐 공방 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cody-puzzle-workshop/description) |
+| 2 | 베스트앨범 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42579) |
+| 3 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
+| 4 | 동굴 탐험 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
+| 5 | 호수의 물결 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) |
+| 6 | 보호 필름 | [SWEA](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=2112) |
+| 7 | 식량 보급 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/commissariat/description) |
+| 8 | 빛의 경로 사이클 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |
+| 9 | 경주로 건설 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
+| 10 | 등산코스 정하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
 
 </details>
