@@ -1,0 +1,19 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "^(startup|clear)$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.codex/hooks/problem_finder_start.py\"",
+            "commandWindows": "python \"D:/dev/Algorithm/.codex/hooks/problem_finder_start.py\"",
+            "timeout": 5,
+            "statusMessage": "문제 탐색 준비",
+            "additionalContextLimit": 3000
+          }
+        ]
+      }
+    ]
+  }
+}
