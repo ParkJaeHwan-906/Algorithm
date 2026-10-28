@@ -9,6 +9,7 @@
 | 1 | 스티커 모으기(2) | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12971) |
 | 2 | Course Schedule | [LEETCODE](https://leetcode.com/problems/course-schedule/description/) |
 | 3 | Count of Range Sum | [LEETCODE](https://leetcode.com/problems/count-of-range-sum/) |
+| 4 | 길찾기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD) |
 
 ---
 
