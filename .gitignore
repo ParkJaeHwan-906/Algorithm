@@ -29,3 +29,6 @@ replay_pid*
 out/
 *.ipr
 *.iws
+
+# Local Claude permissions
+**/.claude/settings.local.json
