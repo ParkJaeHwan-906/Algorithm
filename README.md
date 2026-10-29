@@ -10,6 +10,8 @@
 | 2 | Course Schedule | [LEETCODE](https://leetcode.com/problems/course-schedule/description/) |
 | 3 | Count of Range Sum | [LEETCODE](https://leetcode.com/problems/count-of-range-sum/) |
 | 4 | 길찾기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD) |
+| 5 | Shortest Path Visiting All Nodes | [LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |
+| 6 | 사람 네트워크2 | [SWEA 1263](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN) |
 
 ---
 
