@@ -12,6 +12,8 @@
 | 4 | 길찾기 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD) |
 | 5 | Shortest Path Visiting All Nodes | [LEETCODE](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |
 | 6 | 사람 네트워크2 | [SWEA 1263](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN) |
+| 7 | Search in Rotated Sorted Array | [LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 8 | 금과 은 운반하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |
 
 ---
 
