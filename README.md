@@ -14,6 +14,8 @@
 | 6 | 사람 네트워크2 | [SWEA 1263](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN) |
 | 7 | Search in Rotated Sorted Array | [LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 8 | 금과 은 운반하기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |
+| 9 | 외판원 순회 문제 | [DOJ 603](https://doj.kr/ko/problems/603) |
+| 10 | 검은칠된 격자에 보내는 최단경로 | [DOJ 250](https://doj.kr/ko/problems/250) |
 
 ---
 
