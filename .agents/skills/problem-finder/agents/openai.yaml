@@ -1,0 +1,4 @@
+interface:
+  display_name: "문제 탐색·커밋 에이전트"
+  short_description: "SQL·알고리즘 문제 추천과 풀이별 커밋, README 갱신 및 push"
+  default_prompt: "$problem-finder로 SQL / 알고리즘 / 커밋 작업 중 선택해 시작할게요."
