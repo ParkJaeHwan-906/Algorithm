@@ -18,6 +18,8 @@
 | 10 |  |  |
 | 11 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
 | 12 | Minimum Time to Revert Word to Initial State I | [LEETCODE](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) |
+| 13 | Subsets | [LEETCODE](https://leetcode.com/problems/subsets/) |
+| 14 | 외벽 점검 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
 
 ---
 
