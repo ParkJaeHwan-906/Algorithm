@@ -6,23 +6,13 @@
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
-| 5 |  |  |
-| 6 |  |  |
-| 7 |  |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
-| 11 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
-| 12 | Minimum Time to Revert Word to Initial State I | [LEETCODE](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) |
-| 13 | Subsets | [LEETCODE](https://leetcode.com/problems/subsets/) |
-| 14 | 외벽 점검 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
-| 15 | Gray Code | [LEETCODE](https://leetcode.com/problems/gray-code/) |
-| 16 | Can I Win | [LEETCODE](https://leetcode.com/problems/can-i-win/) |
-| 17 | 2개 이하로 다른 비트 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
+| 1 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
+| 2 | Minimum Time to Revert Word to Initial State I | [LEETCODE](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) |
+| 3 | Subsets | [LEETCODE](https://leetcode.com/problems/subsets/) |
+| 4 | 외벽 점검 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
+| 5 | Gray Code | [LEETCODE](https://leetcode.com/problems/gray-code/) |
+| 6 | Can I Win | [LEETCODE](https://leetcode.com/problems/can-i-win/) |
+| 7 | 2개 이하로 다른 비트 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
 
 ---
 
