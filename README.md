@@ -13,6 +13,8 @@
 | 5 | Gray Code | [LEETCODE](https://leetcode.com/problems/gray-code/) |
 | 6 | Can I Win | [LEETCODE](https://leetcode.com/problems/can-i-win/) |
 | 7 | 2개 이하로 다른 비트 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
+| 8 | 가장 먼 노드 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |
+| 9 | 정수 삼각형 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
 
 ---
 
