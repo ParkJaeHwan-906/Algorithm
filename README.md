@@ -2,23 +2,11 @@
 
 ## 📅 11월 문제 목록
 
-### ✅ 1주차
+### ✅ 2주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
-| 2 | Minimum Time to Revert Word to Initial State I | [LEETCODE](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) |
-| 3 | Subsets | [LEETCODE](https://leetcode.com/problems/subsets/) |
-| 4 | 외벽 점검 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
-| 5 | Gray Code | [LEETCODE](https://leetcode.com/problems/gray-code/) |
-| 6 | Can I Win | [LEETCODE](https://leetcode.com/problems/can-i-win/) |
-| 7 | 2개 이하로 다른 비트 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
-| 8 | 가장 먼 노드 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |
-| 9 | 정수 삼각형 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
-| 10 | 단어 변환 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
-| 11 | 카펫 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
-| 12 | 타겟 넘버 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
-| 13 | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
+| | | |
 
 ---
 
@@ -854,5 +842,27 @@
 | 9 | 외판원 순회 문제 | [DOJ 603](https://doj.kr/ko/problems/603) |
 | 10 | 검은칠된 격자에 보내는 최단경로 | [DOJ 250](https://doj.kr/ko/problems/250) |
 
+
+</details>
+<details>
+<summary>🔽 2026.11월 </summary>
+
+### ✅ 1주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 수하물 컨베이어 벨트 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) |
+| 2 | Minimum Time to Revert Word to Initial State I | [LEETCODE](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) |
+| 3 | Subsets | [LEETCODE](https://leetcode.com/problems/subsets/) |
+| 4 | 외벽 점검 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
+| 5 | Gray Code | [LEETCODE](https://leetcode.com/problems/gray-code/) |
+| 6 | Can I Win | [LEETCODE](https://leetcode.com/problems/can-i-win/) |
+| 7 | 2개 이하로 다른 비트 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
+| 8 | 가장 먼 노드 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |
+| 9 | 정수 삼각형 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
+| 10 | 단어 변환 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
+| 11 | 카펫 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
+| 12 | 타겟 넘버 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+| 13 | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
 
 </details>
