@@ -10,6 +10,7 @@
 | 2 | 완전범죄 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |
 | 3 | 카운트 다운 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131129) |
 | 4 | 공통조상 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) |
+| 5 | 최소 스패닝 트리 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb) |
 
 ---
 
