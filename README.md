@@ -15,6 +15,7 @@
 | 7 | 퍼즐 조각 채우기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |
 | 8 | 팩맨 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pacman/description) |
 | 9 | Path With Minimum Effort | [LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
 
 ---
 
