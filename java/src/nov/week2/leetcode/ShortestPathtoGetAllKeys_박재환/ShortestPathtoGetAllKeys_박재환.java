@@ -1,4 +1,4 @@
-package nov.week2.leetcode.PathWithMinimumEffort_박재환.ShortestPathtoGetAllKeys_박재환;
+package nov.week2.leetcode.ShortestPathtoGetAllKeys_박재환;
 
 import java.util.*;
 
