@@ -17,6 +17,7 @@
 | 9 | Path With Minimum Effort | [LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/) |
 | 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
 | 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
+| 12 | Number of Islands | [LEETCODE](https://leetcode.com/problems/number-of-islands/) |
 
 ---
 
