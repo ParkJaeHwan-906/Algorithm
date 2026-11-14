@@ -11,6 +11,12 @@
 | 3 | 카운트 다운 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131129) |
 | 4 | 공통조상 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) |
 | 5 | 최소 스패닝 트리 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb) |
+| 6 | 순위 검색 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
+| 7 | 퍼즐 조각 채우기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |
+| 8 | 팩맨 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pacman/description) |
+| 9 | Path With Minimum Effort | [LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
+| 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
 
 ---
 
