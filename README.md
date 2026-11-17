@@ -8,6 +8,7 @@
 |------|-----------|------|
 | 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
 | 2 | 카드 유효성 검사 | PROGRAMMERS - |
+| 3 | 한도 초과 알림 | PROGRAMMERS - |
 
 ---
 
