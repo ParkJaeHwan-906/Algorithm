@@ -7,6 +7,7 @@
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
 | 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 2 | 카드 유효성 검사 | PROGRAMMERS - |
 
 ---
 
