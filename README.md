@@ -7,6 +7,8 @@
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
 | 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 2 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
+| 3 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
 
 ---
 
