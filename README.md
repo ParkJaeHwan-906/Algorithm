@@ -11,6 +11,8 @@
 | 3 | 한도 초과 알림 | PROGRAMMERS - |
 | 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
 | 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
+| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
 
 ---
 
