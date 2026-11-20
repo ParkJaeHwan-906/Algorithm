@@ -13,6 +13,8 @@
 | 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
 | 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
+| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
+| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
 
 ---
 
