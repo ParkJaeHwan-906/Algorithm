@@ -1,9 +1,8 @@
 package dataStructure;
 
-import java.util.*;
 import java.io.*;
 
-public class singleLinkedList_박재환 {
+public class 싱글링크드리스트_박재환 {
 
     static final int ADD = 0;
     static final int DELETE = 1;
