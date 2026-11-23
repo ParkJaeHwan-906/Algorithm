@@ -2,20 +2,17 @@
 
 ## 📅 11월 문제 목록
 
-### ✅ 3주차
+### ✅ 4주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
-| 2 | 카드 유효성 검사 | PROGRAMMERS - |
-| 3 | 한도 초과 알림 | PROGRAMMERS - |
-| 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
-| 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
-| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
-| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
-| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 1 | 카드 정렬하기 | [BOJ 1715](https://www.acmicpc.net/problem/1715) |
+| 2 | Rotate Array | [LEETCODE](https://leetcode.com/problems/rotate-array/) |
 
+### SQL
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
 ---
 
 <details>
@@ -891,5 +888,23 @@
 | 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
 | 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
 | 12 | Number of Islands | [LEETCODE](https://leetcode.com/problems/number-of-islands/) |
+
+
+---
+
+### ✅ 3주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 2 | 카드 유효성 검사 | PROGRAMMERS - |
+| 3 | 한도 초과 알림 | PROGRAMMERS - |
+| 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
+| 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
+| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
+| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
+| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+
 
 </details>
