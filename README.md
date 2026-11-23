@@ -2,22 +2,19 @@
 
 ## 📅 11월 문제 목록
 
-### ✅ 2주차
+### ✅ 3주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 거스름돈 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12907) |
-| 2 | 완전범죄 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |
-| 3 | 카운트 다운 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131129) |
-| 4 | 공통조상 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) |
-| 5 | 최소 스패닝 트리 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb) |
-| 6 | 순위 검색 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
-| 7 | 퍼즐 조각 채우기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |
-| 8 | 팩맨 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pacman/description) |
-| 9 | Path With Minimum Effort | [LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/) |
-| 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
-| 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
-| 12 | Number of Islands | [LEETCODE](https://leetcode.com/problems/number-of-islands/) |
+| 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 2 | 카드 유효성 검사 | PROGRAMMERS - |
+| 3 | 한도 초과 알림 | PROGRAMMERS - |
+| 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
+| 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
+| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
+| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
+| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
 
 ---
 
@@ -875,5 +872,24 @@
 | 11 | 카펫 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
 | 12 | 타겟 넘버 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
 | 13 | 합승 택시 요금 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
+
+---
+
+### ✅ 2주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 거스름돈 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/12907) |
+| 2 | 완전범죄 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/389480) |
+| 3 | 카운트 다운 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/131129) |
+| 4 | 공통조상 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) |
+| 5 | 최소 스패닝 트리 | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb) |
+| 6 | 순위 검색 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
+| 7 | 퍼즐 조각 채우기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |
+| 8 | 팩맨 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/pacman/description) |
+| 9 | Path With Minimum Effort | [LEETCODE](https://leetcode.com/problems/path-with-minimum-effort/) |
+| 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
+| 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
+| 12 | Number of Islands | [LEETCODE](https://leetcode.com/problems/number-of-islands/) |
 
 </details>
