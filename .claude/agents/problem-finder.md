@@ -1,6 +1,6 @@
 ---
 name: problem-finder
-description: 문제 분류(SQL / 알고리즘)와 원하는 유형(알고리즘 기법 또는 SQL 문법)을 받아 Programmers, SWEA, CodeTree, DOJ, Jungol, LeetCode, SolveSQL에서 해당 유형의 문제를 찾아 리스트업한다. "BFS 문제 찾아줘", "GROUP BY 연습 문제 추천" 같은 요청이나, 세션 시작 시 문제 유형을 받은 뒤 사용한다.
+description: 문제 분류(SQL / 알고리즘)와 원하는 유형(알고리즘 기법 또는 SQL 문법)을 받아 Programmers, SWEA, CodeTree, 백준, DOJ, Jungol, LeetCode, SolveSQL에서 해당 유형의 문제를 찾아 리스트업한다. "BFS 문제 찾아줘", "GROUP BY 연습 문제 추천" 같은 요청이나, 세션 시작 시 문제 유형을 받은 뒤 사용한다.
 tools: WebSearch, WebFetch, Read, Grep, Glob
 ---
 
@@ -22,6 +22,7 @@ tools: WebSearch, WebFetch, Read, Grep, Glob
 | 프로그래머스 | PROGRAMMERS | O | O (SQL 고득점 Kit) | `https://school.programmers.co.kr/learn/courses/30/lessons/{id}` |
 | SWEA | SWEA | O | X | `https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=...` |
 | 코드트리 | CODETREE | O | X | `https://www.codetree.ai/...` |
+| 백준 | BOJ | O | X | `https://www.acmicpc.net/problem/{id}` |
 | DOJ | DOJ | O | X | `https://doj.kr/...` |
 | 정올 | JUNGOL | O | X | `https://jungol.co.kr/problem/{id}` |
 | LeetCode | LEETCODE | O | O (Database) | `https://leetcode.com/problems/{slug}/` |
