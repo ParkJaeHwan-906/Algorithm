@@ -9,6 +9,7 @@
 | 1 | 카드 정렬하기 | [BOJ 1715](https://www.acmicpc.net/problem/1715) |
 | 2 | Rotate Array | [LEETCODE](https://leetcode.com/problems/rotate-array/) |
 | 3 | 전구와 스위치 | [BOJ 2138](https://www.acmicpc.net/problem/2138) |
+| 4 | 골목 대장 호석 - 효율성 2 | [BOJ 20183](https://www.acmicpc.net/problem/20183) |
 
 ### SQL
 
