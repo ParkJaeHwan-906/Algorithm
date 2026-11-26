@@ -12,6 +12,8 @@
 | 4 | 골목 대장 호석 - 효율성 2 | [BOJ 20183](https://www.acmicpc.net/problem/20183) |
 | 5 | 가로등 설치 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description) |
 | 6 | 닭싸움 팀 정하기 | [BOJ 1765](https://www.acmicpc.net/problem/1765) |
+| 7 | 감소하는 수 | [BOJ 1038](https://www.acmicpc.net/problem/1038) |
+| 8 | 게리맨더링 | [BOJ 17471](https://www.acmicpc.net/problem/17471) |
 
 ### SQL
 
