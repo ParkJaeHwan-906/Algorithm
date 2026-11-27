@@ -14,6 +14,10 @@
 | 6 | 닭싸움 팀 정하기 | [BOJ 1765](https://www.acmicpc.net/problem/1765) |
 | 7 | 감소하는 수 | [BOJ 1038](https://www.acmicpc.net/problem/1038) |
 | 8 | 게리맨더링 | [BOJ 17471](https://www.acmicpc.net/problem/17471) |
+| 9 | Design Circular Queue | [LEETCODE](https://leetcode.com/problems/design-circular-queue/) |
+| 10 | Design Linked List | [LEETCODE](https://leetcode.com/problems/design-linked-list/) |
+| 11 | Implement Queue using Stacks | [LEETCODE](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 12 | Implement Stack using Queues | [LEETCODE](https://leetcode.com/problems/implement-stack-using-queues/) |
 
 ### SQL
 
