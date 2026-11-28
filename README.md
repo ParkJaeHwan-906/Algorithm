@@ -2,20 +2,28 @@
 
 ## 📅 11월 문제 목록
 
-### ✅ 3주차
+### ✅ 4주차
 
 | 번호 | 문제 이름 | 링크 |
 |------|-----------|------|
-| 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
-| 2 | 카드 유효성 검사 | PROGRAMMERS - |
-| 3 | 한도 초과 알림 | PROGRAMMERS - |
-| 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
-| 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
-| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
-| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
-| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 1 | 카드 정렬하기 | [BOJ 1715](https://www.acmicpc.net/problem/1715) |
+| 2 | Rotate Array | [LEETCODE](https://leetcode.com/problems/rotate-array/) |
+| 3 | 전구와 스위치 | [BOJ 2138](https://www.acmicpc.net/problem/2138) |
+| 4 | 골목 대장 호석 - 효율성 2 | [BOJ 20183](https://www.acmicpc.net/problem/20183) |
+| 5 | 가로등 설치 | [CODETREE](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/street-light-installation/description) |
+| 6 | 닭싸움 팀 정하기 | [BOJ 1765](https://www.acmicpc.net/problem/1765) |
+| 7 | 감소하는 수 | [BOJ 1038](https://www.acmicpc.net/problem/1038) |
+| 8 | 게리맨더링 | [BOJ 17471](https://www.acmicpc.net/problem/17471) |
+| 9 | Design Circular Queue | [LEETCODE](https://leetcode.com/problems/design-circular-queue/) |
+| 10 | Design Linked List | [LEETCODE](https://leetcode.com/problems/design-linked-list/) |
+| 11 | Implement Queue using Stacks | [LEETCODE](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 12 | Implement Stack using Queues | [LEETCODE](https://leetcode.com/problems/implement-stack-using-queues/) |
+| 13 | 민준이와 마산 그리고 건우 | [BOJ 18223](https://www.acmicpc.net/problem/18223) |
 
+### SQL
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
 ---
 
 <details>
@@ -891,5 +899,23 @@
 | 10 | 외판원 순회 문제 | [DOJ](https://doj.kr/ko/problems/603) |
 | 11 | Shortest Path to Get All Keys | [LEETCODE](https://leetcode.com/problems/shortest-path-to-get-all-keys/) |
 | 12 | Number of Islands | [LEETCODE](https://leetcode.com/problems/number-of-islands/) |
+
+
+---
+
+### ✅ 3주차
+
+| 번호 | 문제 이름 | 링크 |
+|------|-----------|------|
+| 1 | 순위 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| 2 | 카드 유효성 검사 | PROGRAMMERS - |
+| 3 | 한도 초과 알림 | PROGRAMMERS - |
+| 4 | Merge Intervals | [LEETCODE](https://leetcode.com/problems/merge-intervals/) |
+| 5 | Daily Temperatures | [LEETCODE](https://leetcode.com/problems/daily-temperatures/) |
+| 6 | Subarray Sum Equals K | [LEETCODE](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 7 | Rotting Oranges | [LEETCODE](https://leetcode.com/problems/rotting-oranges/) |
+| 8 | Minimum Number of Days to Make m Bouquets | [LEETCODE](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
+| 9 | 아이템 줍기 | [PROGRAMMERS](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+
 
 </details>

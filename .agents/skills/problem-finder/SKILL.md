@@ -1,6 +1,6 @@
 ---
 name: problem-finder
-description: SQL·알고리즘 문제 추천 또는 풀이 파일 커밋 작업을 진행한다. 지정한 일곱 사이트에서 문제를 찾거나, 파일별 커밋과 선택적 README 문제 표 갱신 후 push한다. 일반 코드 수정·리뷰에는 시작 질문을 강제하지 않는다.
+description: SQL·알고리즘 문제 추천 또는 풀이 파일 커밋 작업을 진행한다. 지정한 사이트에서 문제를 찾거나, 파일별 커밋과 선택적 README 문제 표 갱신 후 push한다. 일반 코드 수정·리뷰에는 시작 질문을 강제하지 않는다.
 ---
 
 # 문제 탐색 에이전트
@@ -24,6 +24,7 @@ description: SQL·알고리즘 문제 추천 또는 풀이 파일 커밋 작업�
 | Programmers | school.programmers.co.kr, programmers.co.kr | SQL, 알고리즘 |
 | SWEA | swexpertacademy.com | 알고리즘 |
 | CodeTree | codetree.ai | 알고리즘 |
+| 백준 | acmicpc.net | 알고리즘 |
 | DOJ Judge | doj.kr | 알고리즘 |
 | Jungol | jungol.co.kr | 알고리즘 |
 | LeetCode | leetcode.com | SQL(Database), 알고리즘 |
@@ -31,7 +32,7 @@ description: SQL·알고리즘 문제 추천 또는 풀이 파일 커밋 작업�
 
 DOJ는 이 저장소 README의 DOJ 링크인 doj.kr을 의미한다. 다른 동명 서비스로 임의 변경하지 않는다.
 
-- 선택한 분야에 해당하는 사이트 각각을 검색한다. SQL은 Programmers·LeetCode·SolveSQL을 우선하고 나머지 사이트는 SQL 제공 여부가 불명확하면 확인 후 다룬다. 알고리즘은 SolveSQL을 제외한 여섯 사이트를 검색한다. 모든 사이트에서 결과를 억지로 채우지 않는다.
+- 선택한 분야에 해당하는 사이트 각각을 검색한다. SQL은 Programmers·LeetCode·SolveSQL을 우선하고 나머지 사이트는 SQL 제공 여부가 불명확하면 확인 후 다룬다. 알고리즘은 SolveSQL을 제외한 일곱 사이트를 검색한다. 모든 사이트에서 결과를 억지로 채우지 않는다.
 - `site:공식도메인 사용자유형`을 기본으로 한국어·영어 동의어를 함께 검색한다. 예: BFS/너비 우선 탐색, DP/dynamic programming, 윈도 함수/window function. 특정 문제의 공식 태그 또는 문제 조건으로 유형 적합성을 확인한다. 공식 태그가 아닌 자체 판단이면 “유형 추정”이라고 표시한다.
 - 각 추천은 공식 상세 페이지의 문제명, 직접 링크, 게시 난이도와 접근 조건을 확인한다. 검색 스니펫만 확인했거나 로그인·차단으로 본문을 볼 수 없는 후보는 검증된 목록과 분리해 “확인 필요”로 표시한다. 문제 번호나 URL을 만들어내지 않는다.
 - 사이트별 난이도 표기는 그대로 유지한다. 서로 다른 사이트의 레벨을 동일 기준이라고 단정하지 않는다. 무료/유료·로그인 필요가 확인되면 표시하고, 불명확하면 미확인이라고 적는다.
